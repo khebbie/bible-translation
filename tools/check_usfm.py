@@ -21,6 +21,14 @@ COUNTS = {
 PAIRS = [("\\f +", "\\f*"), ("\\fq ", "\\fq*"), ("\\nd ", "\\nd*"),
          ("\\add ", "\\add*")]
 
+# Verses absent from the critical text; omitted by decision 0073, not missing.
+OMITTED = {
+    "LUK": {(17, 36), (23, 17)},
+    "MAT": {(17, 21), (18, 11), (23, 14)},
+    "MRK": {(7, 16), (9, 44), (9, 46), (11, 26), (15, 28)},
+    "JHN": {(5, 4)},
+}
+
 
 def check(path):
     text = open(path, encoding="utf-8").read()
@@ -34,7 +42,9 @@ def check(path):
         verses = [int(v) for v in re.findall(r"\\v (\d+)", block)]
         chapters[ch] = verses
         if ch in expected:
-            missing = [n for n in range(1, expected[ch] + 1) if n not in verses]
+            omitted = OMITTED.get(book, set())
+            missing = [n for n in range(1, expected[ch] + 1)
+                       if n not in verses and (ch, n) not in omitted]
             extra = [n for n in verses if n > expected[ch]]
             if missing:
                 problems.append(f"ch{ch} missing {missing}")

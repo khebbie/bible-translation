@@ -667,3 +667,23 @@ alternative ("og enhver bruger vold imod det").
 ancient. The positive reading fits Luke's context — the crowds of toll collectors and
 sinners pressing in from 15:1 — and 0013's coherence test favours it. The alternative
 goes in the note per 0014.
+
+### 0073 — Verses the critical text does not have
+**2026-07-28 · all · settled**
+Where a verse exists only in the TR/KJV tradition, **omit the verse number entirely**
+and footnote it at the preceding verse, quoting the omitted words. Do not print an
+empty verse number, and do not renumber the surrounding verses.
+*Rationale:* this is what ESV, NIV and NLT all do, and NLT's charter requires the note
+explicitly. Renumbering would break every cross-reference and concordance; a bare number
+with no text looks like a production fault.
+*Applies in Luke at:* **17:36** and **23:17**. It will recur at Matt 17:21; 18:11; 23:14;
+Mark 7:16; 9:44, 46; 11:26; 15:28; John 5:4. `tools/check_usfm.py` carries the list.
+
+### 0074 — ἐντὸς ὑμῶν (Luke 17:21)
+**2026-07-28 · all · settled**
+Render **"midt iblandt jer"** in all three, footnoting "i jer" / "inden i jer".
+*Rationale:* ἐντός can mean *within* or *among*, but the addressees here are the
+**Pharisees** — Jesus is not saying the kingdom is inside them. Luke's whole point is
+that the kingdom is already present in his own person, standing in front of them. The
+inward reading is the more familiar one in Danish devotional usage, so it goes in the
+note rather than being dropped.
