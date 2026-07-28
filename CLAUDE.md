@@ -9,10 +9,11 @@ differ from each other, and `WORKFLOW.md` for the roles and the per-pericope pip
 
 ## Current state
 
-Sources, charters and workflow are **done**. Translation is **in progress**: see
-`PROGRESS.md` for the live count — currently Luke 1–7 in all three versions, plus
-Romans 3:21–26 as the original scaffolding pericope. No tooling beyond an inline USFM
-sanity check. The directory is not a git repo.
+Sources, charters and workflow are **done**. **Luke is complete** in all three versions
+(1,149 verses each), plus Romans 3:21–26 as the original scaffolding pericope. See
+`PROGRESS.md` for the live count and `decisions/LOG.md` for the 82 binding rulings.
+`tools/check_usfm.py` validates output after every chapter. The repo is git-tracked on
+`main` with a GitHub remote; one commit per chapter.
 
 ```
 bible/

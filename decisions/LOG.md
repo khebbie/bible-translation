@@ -757,3 +757,18 @@ it in double brackets, all three English versions print it, and it is among the 
 widely known sentences in the Gospel. Removing it silently is not an option; implying
 by brackets that it is spurious overstates the evidence.
 **23:17** — absent from the critical text; omitted per 0073 and footnoted at v16.
+
+### 0082 — The Western non-interpolations in Luke 24
+**2026-07-28 · all · settled**
+Luke 24 carries a cluster of short phrases that Codex Bezae and some Old Latin
+witnesses omit: **24:3** "Herren Jesu", **24:6** "Han er ikke her, men er opstået",
+**24:12** (Peter running to the tomb), **24:36** "og sagde til dem: Fred være med jer",
+**24:40** (showing hands and feet), **24:51** "og han blev båret op til himlen",
+**24:52** "de tilbad ham".
+**Print all of them**, with a single consolidated footnote at 24:12 and short notes at
+24:51–52 in all three versions.
+*Rationale:* the same policy as 0080 and 0081. NA28 prints them all; the twentieth
+century's confidence in the Western text at these points has largely receded. 24:51–52
+matter most: without them Luke's Gospel does not narrate the ascension at all, which
+would leave Acts 1 without its counterpart, and 0013's coherence test weighs against
+that.

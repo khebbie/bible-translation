@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 23 / 24 | ✅ ch. 1–23 | ✅ ch. 1–23 | ✅ ch. 1–23 |
+| Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -48,13 +48,25 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   ESV-style — keep that word so 12:59 and the widow's mite in 21:2 read as one.
 - **Dry measures set (0065):** σάτον = "mål" + footnote in ESV/NIV-style; NLT-style
   converts to litres. The size is often the point of a parable — do not let it vanish.
-- Luke 14: the man with dropsy, places at table, the great banquet, the cost of
-  discipleship. Watch 14:26 (μισεῖ — "hate" father and mother, a Semitic comparative)
-  and the μνᾶ/βάτος measures in the steward parable at 16:6-7.
+- **Textual-variant policy is now fully worked out** across 0073, 0080, 0081, 0082:
+  verses the critical text lacks are omitted and footnoted (17:36; 23:17); bracketed
+  passages are printed with a note (22:19b–20; 22:43–44; 23:34a; the Luke 24 Western
+  non-interpolations). Never bracket typographically in Danish — it overstates the
+  evidence in one direction or the other.
+- **Measures ladder is complete:** λεπτόν/ἀσσάριον (0062), δηνάριον (0046), δραχμή
+  (0069), μνᾶ (0077), σάτον (0065), βάτος/κόρος (0071), στάδιον (24:13). ESV/NIV keep
+  the ancient unit + footnote; NLT-style converts, to metric or a wage period.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
   Nazaret, Judæa, Galilæa, Johannes, Gabriel, Abia(ja).
+
+## Next
+
+Luke is finished. `bd ready` returns **MRK 1** (Mark), which was gated behind Luke
+finishing so the naming and term precedent would be set first. Mark is short (16 ch) and
+will test whether the register decisions transfer to a different author — Mark's Greek
+is much rougher than Luke's, and the ESV-style especially must not smooth it.
 
 ## Standing debt
 
