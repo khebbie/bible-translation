@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 13 / 24 | ✅ ch. 1–13 | ✅ ch. 1–13 | ✅ ch. 1–13 |
+| Luke | 14 / 24 | ✅ ch. 1–14 | ✅ ch. 1–14 | ✅ ch. 1–14 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -61,6 +61,7 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - **No cold-reader pass has ever been run.** Every check so far was done in a context
   that had already seen the Greek. Worth running fresh every few books, on the
   NLT-style especially.
-- **No USFM validator installed.** Files are checked by an inline script for verse
-  completeness and balanced markers only — that is not schema validation. See
-  `FORMAT.md`.
+- **Still no schema validator.** `tools/check_usfm.py` now checks verse
+  completeness, marker balance, verse order, footnote refs and cross-version
+  agreement — run it after every chapter. That is not USFM *schema* conformance;
+  `usfm-grammar` is still worth adding. See `FORMAT.md`.

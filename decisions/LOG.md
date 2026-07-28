@@ -619,3 +619,16 @@ Omit the TR's **ἔρημος** — "jeres hus overlades til jer *øde*" — and
 word is imported from Matt 23:38. Luke's bare "jeres hus overlades til jer" is bleaker
 and should not be softened by explanation either.
 The closing quotation is Ps 118:26 and renders YHWH, so `\nd HERREN\nd*` applies (0033).
+
+### 0068 — μισεῖ (Luke 14:26)
+**2026-07-28 · all · settled**
+ESV-style and NIV-style keep **"hader"**, with a footnote explaining the Semitic
+comparative. NLT-style renders the sense: **"elsker mig så meget højere, at al anden
+kærlighed blegner ved siden af"**, footnoting the literal "hader".
+*Rationale:* the ESV charter is explicit that Semitic idiom is retained and that the
+reader is trusted with a footnote; softening it in the text would be precisely the
+"interpretive expansion" 0003 forbids. But the idiom is real — Hebrew uses "hate" for
+*love less* (Gen 29:31; Deut 21:15; Mal 1:2–3), and Matt 10:37 gives the same saying as
+"loves father or mother more than me". The NLT charter's gate test is met: read flat, a
+modern Danish reader takes "hade" at face value and the sentence becomes monstrous.
+All three footnote the other reading — this is a case where 0014 does real work.
