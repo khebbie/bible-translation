@@ -748,3 +748,12 @@ the position honestly.
 *Note on 22:19b–20:* this is the only account of the institution in Luke, and the
 "new covenant in my blood" wording is the one Danish readers know from the liturgy —
 its silent removal would be very widely noticed.
+
+### 0081 — Luke 23:34a and 23:17
+**2026-07-28 · all · settled**
+**23:34a** ("Fader, tilgiv dem, for de ved ikke, hvad de gør") — print in the text with
+a footnote noting that some early witnesses omit it. Same reasoning as 0080: NA28 prints
+it in double brackets, all three English versions print it, and it is among the most
+widely known sentences in the Gospel. Removing it silently is not an option; implying
+by brackets that it is spurious overstates the evidence.
+**23:17** — absent from the critical text; omitted per 0073 and footnoted at v16.
