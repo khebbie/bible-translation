@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 9 / 24 | ✅ ch. 1–9 | ✅ ch. 1–9 | ✅ ch. 1–9 |
+| Luke | 10 / 24 | ✅ ch. 1–10 | ✅ ch. 1–10 | ✅ ch. 1–10 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -41,8 +41,10 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - Gerasenes settled at 8:26/8:37 (0048); κράσπεδον = "kvasten på kappen" (0050).
 - **The travel narrative began at 9:51** and runs to 19:44 — the long central section
   unique to Luke. Register should stay steady across it.
-- Luke 10: sending of the seventy(-two) — check the 10:1/10:17 number variant, it is a
-  real one (ἑβδομήκοντα vs ἑβδομήκοντα δύο). Then the Good Samaritan and Mary/Martha.
+- Luke 11: the Lord's Prayer (11:2-4) — Luke's form is **shorter** than Matthew's and
+  the TR pads it out from Matt 6; follow NA and footnote, this is the single most
+  recognisable place where the critical text differs from the tradition. Then the
+  Beelzebul controversy and the woes against Pharisees and lawyers (apply 0040).
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

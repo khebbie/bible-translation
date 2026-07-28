@@ -517,3 +517,30 @@ ESV-style keeps the Semitic idiom — **"vendte han sit ansigt fast mod Jerusale
 per its charter's rule on retaining idiom. NIV-style "besluttede han sig fast for at
 drage til Jerusalem". NLT-style "satte han kursen mod Jerusalem, fast besluttet".
 The phrase echoes Ezek 21:2 and Isa 50:7; footnote it in the ESV-style only.
+
+### 0055 — Luke 10:1, 17: tooghalvfjerds
+**2026-07-28 · all · settled**
+Read **"tooghalvfjerds"** (72) with NA/SBL, footnoting "halvfjerds" in all three.
+*Rationale:* the manuscript evidence is genuinely divided and NA28 brackets δύο, but
+ESV, NIV and NLT all print seventy-two, and 72 matches the table of nations in Gen 10
+LXX — a plausible symbolic point for Luke's mission to the wider world. Because the
+evidence is balanced rather than one-sided, the footnote is not optional.
+
+### 0056 — Luke 10:42
+**2026-07-28 · all · settled**
+Follow NA/SBL **ὀλίγων δέ ἐστιν χρεία ἢ ἑνός** — "kun lidt er nødvendigt, ja, kun én
+ting" — not the TR's flat "ét er fornødent". Footnote the shorter reading.
+*Rationale:* 0004. The longer reading is the harder one and explains the others; the TR
+text looks like a simplification. The sense is not materially changed, but the wording
+is, and Danish readers know the traditional phrasing.
+
+### 0057 — ᾅδης
+**2026-07-28 · all · settled**
+**"dødsriget"** in all three — the established Danish rendering, and distinct from
+γέεννα, which is "Helvede". Do not collapse the two: Luke 10:15 is about being brought
+low, not about final judgment.
+
+### 0058 — Luke 10:27 quotes the Shema
+**2026-07-28 · all · settled**
+Deut 6:5 renders YHWH, so `\nd HERREN\nd*` applies per 0033: "Du skal elske
+\nd HERREN\nd* din Gud…". Same wherever the Shema or the Decalogue is quoted.
