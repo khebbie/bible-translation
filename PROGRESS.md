@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 14 / 24 | ✅ ch. 1–14 | ✅ ch. 1–14 | ✅ ch. 1–14 |
+| Luke | 15 / 24 | ✅ ch. 1–15 | ✅ ch. 1–15 | ✅ ch. 1–15 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel

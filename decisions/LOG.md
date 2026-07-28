@@ -632,3 +632,11 @@ reader is trusted with a footnote; softening it in the text would be precisely t
 "loves father or mother more than me". The NLT charter's gate test is met: read flat, a
 modern Danish reader takes "hade" at face value and the sentence becomes monstrous.
 All three footnote the other reading — this is a case where 0014 does real work.
+
+### 0069 — δραχμή (Luke 15:8-9)
+**2026-07-28 · all · settled** (extends 0062)
+ESV-style **"drakmer"** with a footnote (a drachma was about a day's wage); NIV-style
+**"sølvmønter"** with the same footnote; NLT-style **"sølvmønter"**, footnoting that
+each was worth a day's work.
+*Rationale:* the woman has ten and loses one — a tenth of her savings, not small change.
+"Ti mønter" alone would lose that, so the value goes in the note in every version.
