@@ -2,10 +2,10 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 5 / 24 | ✅ ch. 1–5 | ✅ ch. 1–5 | ✅ ch. 1–5 |
+| Luke | 6 / 24 | ✅ ch. 1–6 | ✅ ch. 1–6 | ✅ ch. 1–6 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 6 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 7 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
 ## Notes carried forward
@@ -24,9 +24,15 @@ order.
 - Fixed in Luke 4: Kapernaum, Sarepta, Elias, Elisa, Na'aman, Sidon, Djævelen, Satan.
 - **Menneskesønnen** is fixed for ὁ υἱὸς τοῦ ἀνθρώπου in all three (0036), including
   the NLT-style. ἐπιστάτης = "Mester" (0037), ἁμαρτωλός = "synder" (0038).
-- Luke 6 has the Sabbath controversies, the choosing of the Twelve, and the Sermon on
-  the Plain (6:20–49) — the Beatitudes and Woes are poetry and need `\q1/\q2`. Fix the
-  rendering of μακάριος when it first appears at 6:20; it recurs throughout Luke.
+- **μακάριος / οὐαί fixed (0040):** ESV- and NIV-style "Salige er I…" / "Ve jer…";
+  NLT-style "Gud velsigner jer, som…" / "Hvor vil I komme til at sørge…". Apply at
+  7:23; 10:23; 11:27–28, 42–52; 12:37–43; 14:14–15; 23:29.
+- Apostle names fixed at 6:14–16: Peter, Andreas, Jakob, Johannes, Filip,
+  Bartholomæus, Matthæus, Thomas, Jakob (Alfæus' søn), Simon Zeloten, Judas (Jakobs
+  søn), Judas Iskariot.
+- Luke 7 has the centurion, the widow of Nain, John's question, and the anointing at
+  Simon's house. Watch 7:2 (δοῦλος — apply 0008's context-graded rule) and the
+  δηνάρια in 7:41, where 0017 splits the versions on currency.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

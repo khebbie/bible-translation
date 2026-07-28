@@ -390,3 +390,30 @@ Pharisees apply, and the whole point of 5:30–32 and 15:1–2 depends on it sti
 Omit and footnote 5:38 "og begge dele bevares". Follow NA at 5:33 (statement, not the
 TR's question) and 5:17 (αὐτόν — the Lord's power was with *him* to heal). Trivial TR
 articles and adverbs (5:3, 5:5, 5:15, 5:39) are not noted.
+
+### 0040 — μακάριος and οὐαί
+**2026-07-28 · all · settled**
+- ESV-style and NIV-style: **"Salige er I…"** / **"Ve jer…"** — the received Danish
+  forms; 0016 tells the ESV-style not to differ from the tradition gratuitously.
+- NLT-style: **"Gud velsigner jer, som…"** and **"Hvor vil I komme til at sørge, I…"**
+  Its charter's gate test *is* met here: "salig" is drifting out of ordinary Danish, and
+  "ve" is no longer a live interjection. Making God the actor also matches what the
+  passive form actually claims.
+Applies wherever the words recur (6:20–26; 7:23; 10:23; 11:27–28, 42–52; 12:37–43;
+14:14–15; 23:29).
+
+### 0041 — Luke's Beatitudes stay second person
+**2026-07-28 · all · settled**
+Luke has "Blessed are **you** poor… for **yours** is the kingdom", against Matthew's
+third person. Do not harmonise toward the more familiar Matthean form in any version.
+Likewise keep Luke's four Woes, which Matthew lacks.
+
+### 0042 — TR readings in Luke 6
+**2026-07-28 · all · settled**
+- 6:1 omit the TR's **δευτεροπρώτῳ** ("the second-first sabbath"), a famously obscure
+  reading absent from the critical text. Footnote it — it is well known and its absence
+  will be noticed.
+- 6:10 omit "sund som den anden"; footnote.
+- 6:48 follow NA — the house stood **"fordi den var bygget godt"**, not the TR's "for
+  it was founded on a rock" (assimilated from Matt 7:25). Footnote. Luke's point is the
+  *building work*, not the rock; blurring it flattens his distinctive version.
