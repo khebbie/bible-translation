@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 11 / 24 | ✅ ch. 1–11 | ✅ ch. 1–11 | ✅ ch. 1–11 |
+| Luke | 12 / 24 | ✅ ch. 1–12 | ✅ ch. 1–12 | ✅ ch. 1–12 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -44,9 +44,10 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - **Fadervor settled (0059):** Luke's shorter five-petition form, with the Matthean
   additions quoted in full in the footnote. ESV-style uses the received Danish wording
   for the petitions Luke has.
-- Luke 12 is long (59 verses): warnings about hypocrisy and greed, the rich fool,
-  do-not-worry, watchfulness, division. Watch 12:8-10 (blasphemy against the Spirit)
-  and the μαμωνᾶς / θησαυρός vocabulary.
+- **Small-coin policy set (0062):** ἀσσάριον = "skilling"; λεπτόν = "skærv" in the
+  ESV-style — keep that word so 12:59 and the widow's mite in 21:2 read as one.
+- Luke 13: the fig tree, the bent woman, the narrow door, the lament over Jerusalem.
+  Watch 13:1-5 (Pilate and the Galileans — no parallel elsewhere) and μετανοέω.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

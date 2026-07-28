@@ -572,3 +572,29 @@ rendering is right under 0013, but the uncertainty is real and belongs in a note
 **"Beelzebul"** in all three, footnoting it as a name for the ruler of the demons.
 Not "Beelzebub", which comes via the Vulgate and Syriac; the Greek is consistently
 -βουλ.
+
+### 0062 — Small coins: ἀσσάριον and λεπτόν
+**2026-07-28 · all · settled** (extends 0017/0046)
+- ἀσσάριον (12:6): ESV-style **"to skilling"** with a footnote giving the Greek and the
+  value (1/16 denar); NIV-style the same; NLT-style **"nogle få mønter"**.
+- λεπτόν (12:59): ESV-style **"den sidste skærv"** — the received Danish word, and the
+  same coin as the widow's mite in 21:2, where the phrase is fixed in Danish memory;
+  NIV-style "den sidste øre"; NLT-style "den allersidste krone".
+Keep "skærv" for λεπτόν throughout the ESV-style so 12:59 and 21:2 read as one word.
+
+### 0063 — Luke 12:25 ἡλικία
+**2026-07-28 · all · settled**
+Render as **lifespan** — "lægge en alen til sin livslængde" (ESV-style), "forlænge sit
+liv en eneste time" (NIV/NLT-style) — and footnote the alternative "add a cubit to his
+height".
+*Rationale:* ἡλικία covers both age and stature, and πῆχυς is a measure of length, so
+the Greek is genuinely mixed. But v26 calls it "the least thing", which fits a tiny
+addition to a lifespan far better than eighteen inches of height. 0013 is not engaged;
+the context decides.
+
+### 0064 — ὀσφύες περιεζωσμέναι (Luke 12:35)
+**2026-07-28 · all · settled**
+ESV-style keeps the idiom — **"Lad jeres lænder være omgjordede"** — per its charter's
+rule on retaining Semitic idiom, footnoting the sense. NIV-style "Vær klar til at gå
+i gang". NLT-style "Vær klar til at rykke ud". The image is of tucking a long robe into
+the belt in order to move fast.
