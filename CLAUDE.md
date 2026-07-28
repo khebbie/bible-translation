@@ -54,8 +54,22 @@ from the publishers' own pages, `.html`/`.pdf`/`.txt` raw originals) plus a
 ESV/NIV/NLT made an interpretive expansion, do not copy it just because it is in the
 English text. This was caught in the first pericope and is the easiest mistake to make.
 
-Findings from checks are **reported, not silently fixed** — see the open rulings at
-the bottom of `decisions/LOG.md` and in `briefs/*.checks.md`.
+## Decide; do not escalate
+
+Findings from checks become **decisions**, logged in `decisions/LOG.md` — not questions
+for Klaus. A whole Bible cannot be translated by referendum. Escalate only under the
+three conditions in decision 0012, and batch it into a periodic review.
+
+**Tie-breaker (0013):** where the charters and the evidence genuinely leave a question
+open, take the **conservative** reading — traditional readings of the text, the
+received sense over a novel reconstruction, the old rendering over the fashionable one.
+Conservative is *not* confessional: do not read later doctrinal formulation back into
+the wording, and do not sharpen a text into a proof-text. Where the default forecloses
+a live alternative, footnote it (0014).
+
+**When rules collide**, the order of authority is: protect the argument → the version's
+own charter → settled precedent → the conservative default → Danish idiom.
+See `WORKFLOW.md`.
 
 ## Which source to reach for
 

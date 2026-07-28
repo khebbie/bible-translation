@@ -96,6 +96,24 @@ the finished Danish back to literal English *without looking at the source*, the
 against the philological brief. Additions, losses and shifts show up immediately. Run
 it hardest on the NLT-style version, where drift is likeliest and least visible.
 
+## Checks produce decisions, not questions
+
+A finding is not a question for Klaus. Rule it against the charter and the tie-breaker
+(`decisions/LOG.md` 0012–0014), apply the fix, and log it. Escalate only under the
+three conditions in 0012, and batch it.
+
+The order of authority when rules collide:
+
+1. **Protect the argument.** If a rendering loses what the passage is doing — a
+   wordplay the point rests on, a distinction the logic needs — that outranks every
+   stylistic rule in every charter.
+2. **The version's own charter**, including its gate conditions. "Meaning-based" is not
+   a licence: the NLT charter's trigger test is a gate, and must actually be applied
+   before recasting (0019).
+3. **Settled precedent** in the decision log.
+4. **The conservative default** (0013).
+5. **Danish idiom and rhythm.**
+
 ## Independence is the point
 
 The committees' value came from people who could genuinely disagree. The failure mode
@@ -126,7 +144,11 @@ chapter 40 will not match chapter 3.
 
 ## Danish-specific gap
 
-The historical committees had native speakers of the target language in the room. We
-do not, and this is the project's real weak point — the stylist and cold-reader roles
-are where a human Danish ear is worth most. Flag renderings that turn on Danish
-idiom or rhythm for review rather than assuming they are settled.
+The historical committees had native speakers in the room. We do not, and the stylist
+and cold-reader roles are where that costs most.
+
+This does **not** mean stopping to ask. Decide it, log it, and let it accumulate: idiom
+calls go in the glossary and the decision log, where they can be reviewed in bulk and
+reversed cheaply across the whole corpus. A wrong-but-consistent choice recorded in one
+place is far easier to fix later than a thousand ad-hoc ones — and infinitely cheaper
+than interrupting every few verses.

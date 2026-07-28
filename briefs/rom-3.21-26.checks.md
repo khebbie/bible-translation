@@ -1,8 +1,12 @@
 # Checks: Romans 3:21–26
 
 Stage 5 of `WORKFLOW.md`. Back-translation done from the Danish alone, then diffed
-against the philological brief. Findings below are **not** silently fixed — they are
-reported so the charter editor (and a Danish ear) can rule.
+against the philological brief.
+
+> **Status: all findings ruled and applied**, 2026-07-28. See `decisions/LOG.md`
+> 0006, 0008, 0011, 0015–0019. The USFM files have been corrected; the findings below
+> are kept as the record of *why*. Under decision 0012 later pericopes rule their own
+> findings the same way rather than reporting them upward.
 
 ## Mechanical checks — passed
 
@@ -69,33 +73,28 @@ version rather than the Greek. Worth a standing rule.
 None distort; all are the kind of expansion the NLT charter licenses. Listed so the
 cumulative weight stays visible — four additions in three verses is near the ceiling.
 
-## Danish-idiom calls needing a native ear
+## Danish-idiom calls — ruled
 
-Per `WORKFLOW.md`, these turn on Danish rhythm and idiom, not on exegesis. I can
-defend each, but I should not be the one to settle them.
+1. **δικαιόω.** ESV-style *retfærdiggøre*, NIV-style *gøre retfærdig*, NLT-style
+   *erklære retfærdig*. **"Frikende"** rejected for the NLT-style: better Danish, but
+   it breaks the δίκαιος/δικαιόω pair at v26, and protecting the argument outranks
+   idiom. → 0006.
+2. **"uforskyldt"** kept for the ESV-style. Its charter anchors in the received Danish
+   stream, where the word sits; ESV retains "behold", which is far more archaic in
+   English. → 0011.
+3. **"uden lov"** (v21, ESV-style) kept over "uden om loven". χωρὶς νόμου is anarthrous
+   — law as principle, not *the* law — and the terser Danish carries that. The footnote
+   already explains the construction.
+4. **"kommer til kort over for Guds herlighed"** (v23) kept. The 1992 Danish "har mistet
+   herligheden fra Gud" is a *different exegesis* (lost vs. fall short); ὑστερέω +
+   genitive is deficiency, not loss, and the present tense is durative. Not followed —
+   0016 tells the ESV-style not to differ from 1992 gratuitously, but this is not
+   gratuitous.
+5. **"sonoffer"** kept for ESV- and NIV-style — propitiation, the traditional reading,
+   per the conservative default. Mercy-seat sense held in the footnote. → 0008.
 
-1. **δικαιόω across the three versions.** Currently: ESV-style *retfærdiggøre*
-   (traditional theological term), NIV-style *gøre retfærdig*, NLT-style *erklære
-   retfærdig*. The considered alternative for NLT-style was **"frikende"** (acquit) —
-   punchier, unmistakably forensic, excellent read aloud, and arguably the most
-   natural Danish. It was rejected only because it breaks the shared root at v26.
-   Is that the right trade?
-2. **"uforskyldt" vs "ufortjent"** for δωρεάν. I used *uforskyldt* in the ESV-style
-   deliberately — it is the older Danish theological word and echoes the 1931/1948
-   tradition the ESV charter tells us to anchor in — and *ufortjent* in the other two.
-   Does *uforskyldt* read as dignified or as archaic?
-3. **"uden lov"** (v21, ESV-style) for χωρὶς νόμου. Literal and terse. "Uden om loven"
-   is clearer Danish but less transparent. Which way does the ESV charter cut here?
-4. **"kommer til kort over for Guds herlighed"** (v23) for ὑστεροῦνται. Idiomatic and
-   accurate, but longer than the Greek. The 1992 Danish Bible has "har mistet
-   herligheden fra Gud", which is a different exegesis (lost vs. fall short) — I did
-   not follow it.
-5. **"sonoffer"** for ἱλαστήριον in the ESV- and NIV-style. This commits to
-   *propitiation* (wrath-averting). The brief flagged three live options. If you want
-   the mercy-seat reading foregrounded instead, that changes the word.
+## Outstanding
 
-## Not yet done
-
-No cold-reader pass. It needs to be run by someone — or something — that has never
-seen the Greek, and everything in this session has. That check is genuinely
-outstanding, not merely unrecorded.
+**Cold-reader pass.** Needs a reader that has never seen the Greek; everything in this
+session has. Not a blocker for continuing — but worth running in a fresh context every
+few books, on the NLT-style especially, rather than never.

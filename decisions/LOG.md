@@ -9,6 +9,59 @@ rationale · status (settled / provisional / open).
 
 ---
 
+## Standing rules — read these first
+
+### 0012 — The charter decides; do not escalate per passage
+**2026-07-28 · all · settled**
+Judgment calls are made against the charters and this log, and recorded here. Do not
+stop for advice on individual renderings.
+
+Escalate **only** when one of these is true:
+- the decision would require re-doing work already completed in another book;
+- two settled rules collide with no principled way to rank them;
+- it is a project-wide policy question not derivable from any charter.
+
+Even then, **batch it** into a periodic review rather than interrupting mid-book.
+Findings from checks become decisions here, not questions.
+
+*Rationale:* the historical committees delegated to Senior Translators for exactly
+this reason — a whole Bible cannot be translated by referendum. Klaus's instruction,
+2026-07-28.
+
+### 0013 — Tie-breaker: conservative, not confessional
+**2026-07-28 · all · settled**
+Where the charters and the evidence genuinely leave a question open, default to the
+**conservative** reading.
+
+Concretely, this means:
+- **Take the traditional reading of the text itself.** Traditional authorship and
+  setting; historical events read as historical; the received sense of a disputed
+  phrase over a novel scholarly reconstruction; messianic reference in the OT allowed
+  to stand where the NT reads it that way.
+- **Do not read later doctrinal formulation back into the wording.** Conservative is
+  not the same as confessional. Where the Greek or Hebrew is less precise than a
+  creed or a systematic-theology category, keep the text's own level of precision.
+  Do not sharpen a text into a proof-text it is not.
+- **Prefer the reading that keeps Scripture coherent with itself**, where the language
+  genuinely permits both.
+- When in doubt between an old rendering and a fashionable one, take the old one.
+
+*Worked example:* ἱλαστήριον (Rom 3:25) → propitiation ("sonoffer"), the traditional
+Protestant reading, over expiation. But we still footnote the mercy-seat background
+rather than pretending the question does not exist.
+
+*How I am reading Klaus's instruction:* conservative **bibliology** — a high view of
+Scripture and a preference for traditional readings — as distinct from imposing
+confessional orthodoxy onto the wording. If that is the wrong split, say so once and
+I will re-cut every affected decision; do not correct it per verse.
+
+### 0014 — Footnotes carry what the text cannot
+**2026-07-28 · all · settled**
+When 0013 forecloses a live alternative, footnote the alternative. The conservative
+default governs the *text*; it does not license hiding the evidence.
+
+---
+
 ### 0001 — Output format
 **2026-07-28 · all · settled**
 USFM 3.1 as canonical output, one file per book per version. See `FORMAT.md`.
@@ -46,10 +99,10 @@ ESV and NIV both do it in practice.
 *YHWH tseba’oth* → **splits by charter**: ESV-style "Hærskarers HERRE" (traditional
 Danish), NLT-style translates the meaning ("Himlens hære"), per its charter's explicit
 "LORD of Heaven's Armies" rule. NIV-style: traditional.
-*Status of the tseba'oth split:* provisional until first OT pericope.
+*Status of the tseba'oth split:* superseded by 0018, which settles it.
 
 ### 0006 — δικαιόω / δικαιοσύνη
-**2026-07-28 · all · provisional**
+**2026-07-28 · all · settled**
 - ESV-style: **retfærdiggøre / retfærdighed** — charter mandates retaining theological
   terminology (its own list includes *justification*).
 - NIV-style: **gøre retfærdig / retfærdighed** — transparent member of the pair.
@@ -58,7 +111,11 @@ Danish), NLT-style translates the meaning ("Himlens hære"), per its charter's e
   root, which v26 needs.
 *Rejected for NLT-style:* **"frikende"** (acquit) — better Danish, sharper forensic
 metaphor, better aloud, but breaks the δίκαιος/δικαιόω root pair at Rom 3:26.
-**Open for Klaus:** is that the right trade?
+**Ruled:** keep "erklære retfærdig" throughout the NLT-style. Decision 0007 (protect
+the root pair) outranks idiomatic sharpness — losing Paul's argument costs more than a
+slightly flatter verb. Consistency across the version also serves the NLT charter's own
+concordance rule for repeated rhetorical phrases. "Frikende" is not used at all, to
+avoid a split rendering the reader would have to reconcile.
 
 ### 0007 — The δίκαιος/δικαιόω pair must stay visible
 **2026-07-28 · all · settled**
@@ -68,13 +125,16 @@ versions must keep a visibly shared Danish root, however freely they otherwise r
 philosophy.
 
 ### 0008 — ἱλαστήριον
-**2026-07-28 · esv, niv · provisional; nlt · settled**
+**2026-07-28 · all · settled**
 ESV-style and NIV-style: **"sonoffer"** — commits to *propitiation*.
 NLT-style: **"det offer, der bærer vores skyld bort"** — meaning-based, avoids the
 technical term.
 All three footnote the LXX mercy-seat background (Ex 25:17–22; Lev 16).
-**Open:** "sonoffer" forecloses the mercy-seat reading, which the brief judged a
-serious contender. Revisit before Hebrews.
+**Ruled** under 0013: propitiation is the traditional Protestant reading and is what
+the ESV chose deliberately; the conservative default takes it. The mercy-seat sense is
+preserved in the footnote per 0014, not in the text. In **Hebrews 9:5**, where
+ἱλαστήριον unambiguously *is* the furniture, render "sonedækket" in all three — that is
+not an exception to this rule but a different referent.
 
 ### 0009 — πάρεσις is not forgiveness
 **2026-07-28 · all · settled**
@@ -95,16 +155,95 @@ the Danish construction reads as subjective to most ears. **Flagged as the clear
 case so far where Danish can do something English couldn't.**
 
 ### 0011 — δωρεάν register split
-**2026-07-28 · all · provisional**
-ESV-style **"uforskyldt"** (older Danish theological register, echoes the 1931/1948
-tradition its charter tells us to anchor in); NIV-style and NLT-style **"ufortjent" /
-"gratis"**.
-**Open for Klaus:** does *uforskyldt* read as dignified or as archaic?
+**2026-07-28 · all · settled**
+ESV-style **"uforskyldt"**; NIV-style and NLT-style **"ufortjent" / "gratis"**.
+**Ruled:** keep *uforskyldt* for the ESV-style. Its charter explicitly tells us to
+anchor in the received translation stream, and *uforskyldt* sits in the 1931/1948
+Danish Bible and is still understood by Danish churchgoers. The ESV retains "behold",
+which is markedly more archaic in English than *uforskyldt* is in Danish — so this is
+well inside that charter's tolerance. 0013 also favours the older word.
 
 ---
 
-## Open questions not yet forced by a pericope
+## Rulings closing out the first pericope
 
-From `CHARTERS.md`, still undecided: **De/du** (especially in address to God); how
-close each version sits to the 1992 Danish Bible's register; metric conversion policy
-for the NLT-style version.
+### 0015 — Second person: du
+**2026-07-28 · all · settled**
+**"du"** throughout, including in address to God and in prayer. All modern Danish
+Bibles do this; *De* would read as stilted in every register we are targeting, and
+would misrepresent the Greek and Hebrew, which have no such distinction.
+
+### 0016 — Register against the 1992 Danish Bible
+**2026-07-28 · all · settled**
+- **ESV-style:** close to the authorized Danish tradition. Where the 1992 wording is
+  accurate and dignified, there is no merit in differing for its own sake.
+- **NIV-style:** contemporary but dignified; free of the 1992 wording where a clearer
+  modern phrasing exists.
+- **NLT-style:** deliberately independent of it.
+
+### 0017 — Units, currency, dates
+**2026-07-28 · all · settled**
+- **ESV-style:** keep the ancient unit in the text, modern equivalent in a footnote.
+- **NIV-style:** ancient unit in the text where it is meaningful, otherwise a modern
+  rendering; footnote either way.
+- **NLT-style:** convert, per its charter — and convert to **metric**, not to the NLT's
+  American units. Footnote the literal measure. Currency by function ("en almindelig
+  dagløn"); dates to the modern calendar where fixable.
+
+### 0018 — YHWH tseba'oth
+**2026-07-28 · all · settled**
+ESV-style and NIV-style: **"Hærskarers HERRE"** (traditional Danish). NLT-style:
+translate the meaning — **"HERREN, den Almægtige"** / "Himlens hære" as context suits,
+per its charter's explicit rule for this name. Supersedes the provisional note in 0005.
+
+### 0019 — NLT-style must apply its own trigger test before going dynamic
+**2026-07-28 · nlt · settled**
+The NLT charter permits a dynamic rendering **only** when the literal one is hard to
+understand, misleading, or archaic/foreign. Applying that test retroactively to the
+first pericope found three renderings that failed it and have been corrected:
+- v21 dropped δικαιοσύνη θεοῦ entirely — "Guds retfærdighed" is perfectly clear Danish,
+  so the trigger was never met. Restored at both v21 and v22, keeping the fourfold
+  hinge intact in all three versions.
+- v21 μαρτυρουμένη rendered "peget frem mod" (predicted) — "vidner om" is clear.
+  Corrected.
+- v25 προέθετο rendered "lod dø", losing the public-display sense the brief called for.
+  Now "stillede Jesus frem for alles øjne".
+*Standing lesson:* "meaning-based" is not a licence. The trigger test is a gate, and
+it must actually be applied before recasting.
+
+### 0020 — Process at book scale
+**2026-07-28 · all · settled**
+The full stage-1/2 written brief per pericope does not scale to 1,151 verses × 3. From
+Luke onward:
+- **Full written brief only for passages that earn it** — a real textual variant, a
+  doctrinally loaded term, a genuine exegetical crux, or a Semitic idiom needing a
+  ruling. Everything else is carried by the glossary and settled precedent.
+- **The glossary is the working memory.** Any term ruled once goes in
+  `glossaries/key-terms.tsv` and is thereafter applied without re-deciding.
+- **Checks run per chapter, not per pericope**, and only findings that change the text
+  get written up.
+*Rationale:* the historical committees did exactly this — three specialists per book,
+not a committee sitting on every verse. Depth is spent where the text is hard.
+
+### 0021 — Luke's two registers must both survive
+**2026-07-28 · all · settled**
+Luke 1:1–4 is a single classical periodic sentence — the most literary Greek in the NT.
+At 1:5 Luke switches deliberately into Septuagintal narrative style (Ἐγένετο ἐν ταῖς
+ἡμέραις…, paratactic καί-chains, Hebraic idiom).
+**This shift is a feature of the source, not an accident, and must be visible in Danish
+in all three versions**, most sharply in the ESV-style, whose charter requires letting
+"the stylistic variety of the biblical writers fully express itself".
+- ESV-style: prologue as one period; from v5 a deliberately biblical Danish narrative
+  register, καί-chains kept ("Og det skete…").
+- NIV-style: prologue lightly broken; narrative contemporary but with the Semitic
+  cadence audible.
+- NLT-style: prologue fully broken into short sentences; narrative plain modern Danish.
+  Its charter's gate test does not license flattening a register *the author chose*,
+  but it does license unpacking the syntax.
+
+### 0022 — ἀνατολὴ ἐξ ὕψους (Luke 1:78)
+**2026-07-28 · all · settled**
+Render as **"solopgangen fra det høje"** (ESV/NIV-style) and "det lys, der bryder frem
+fra det høje" (NLT-style). ἀνατολή carries both "sunrise" and, in the LXX, the
+messianic "Branch" (צֶמַח, Jer 23:5; Zech 3:8; 6:12). Per 0013 the messianic resonance
+is kept rather than explained away; per 0014 the Branch sense goes in a footnote.
