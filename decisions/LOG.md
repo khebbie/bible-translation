@@ -818,3 +818,13 @@ Follow NA/UBS **"hos profeten Esajas"**, not the TR's "hos profeterne". Footnote
 three that the quotation combines **Mal 3:1** with **Isa 40:3**, and that the TR reading
 looks like a scribal tidying of exactly that difficulty. 0013 does not license removing
 a difficulty the best manuscripts preserve.
+
+### 0087 — Mark 2:26 "da Abjatar var ypperstepræst"
+**2026-07-28 · all · settled**
+Translate as it stands and **footnote the difficulty**: 1 Sam 21 names **Ahimelek**, not
+his son Abjatar, as the priest on that occasion.
+*Rationale:* 0013 tells us to take the text as it stands and not to smooth a difficulty
+the best manuscripts preserve — the same reasoning as Luke 4:44 and Mark 1:2. Some
+manuscripts drop the clause entirely, which is itself evidence that early readers felt
+the problem. Note the fact; do not resolve it in the text, and do not pretend it is not
+there.

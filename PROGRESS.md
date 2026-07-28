@@ -3,7 +3,7 @@
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Mark | 1 / 16 | ✅ ch. 1 | ✅ ch. 1 | ✅ ch. 1 |
+| Mark | 2 / 16 | ✅ ch. 1–2 | ✅ ch. 1–2 | ✅ ch. 1–2 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
