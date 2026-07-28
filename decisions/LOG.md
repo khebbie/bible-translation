@@ -828,3 +828,13 @@ the best manuscripts preserve — the same reasoning as Luke 4:44 and Mark 1:2. 
 manuscripts drop the clause entirely, which is itself evidence that early readers felt
 the problem. Note the fact; do not resolve it in the text, and do not pretend it is not
 there.
+
+### 0088 — The apostle lists differ between Gospels
+**2026-07-28 · all · settled**
+Mark 3:18 has **Thaddæus** where Luke 6:16 has **Judas, Jakobs søn**; Mark has
+**Simon Kananæeren** where Luke has **Simon Zeloten**. Render each Gospel's list as it
+stands and footnote the difference once per Gospel. Do not harmonise.
+*Rationale:* 0002 requires shared *exegesis*, not harmonised *wording* — and these are
+different lists in different books, not a discrepancy to be resolved. "Kananæer" is
+Aramaic for "zealot", so the Simon entries are the same person under two labels; that
+belongs in the note.
