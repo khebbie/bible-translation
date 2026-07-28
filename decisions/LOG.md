@@ -687,3 +687,21 @@ Render **"midt iblandt jer"** in all three, footnoting "i jer" / "inden i jer".
 that the kingdom is already present in his own person, standing in front of them. The
 inward reading is the more familiar one in Danish devotional usage, so it goes in the
 note rather than being dropped.
+
+### 0075 — ἱλάσκομαι (Luke 18:13)
+**2026-07-28 · all · settled**
+All three: **"Gud, vær mig synder nådig!"** (ESV-/NIV-style) and "Gud, vær nådig mod
+mig — jeg er en synder" (NLT-style), **footnoting** "ordret: lad dig forsone med mig".
+*Rationale:* the verb is cognate with ἱλαστήριον (0008, "sonoffer"), and the tax
+collector is asking for exactly what Rom 3:25 says God provided. But the Danish
+"vær mig synder nådig" is a fixed, universally known phrase, and 0016 tells the
+ESV-style not to differ from the received tradition without cause. ESV English does the
+same — "be merciful" in the text, propitiation in the note. The link is preserved where
+it belongs, in the footnote.
+
+### 0076 — δικαιόω reappears in Luke (18:14)
+**2026-07-28 · all · settled**
+δεδικαιωμένος at 18:14 takes the renderings already fixed by **0006**: ESV-style
+"retfærdiggjort", NIV-style "gjort retfærdig", NLT-style "erklæret retfærdig". Noted
+here only because it is the first time the Romans vocabulary recurs inside Luke — the
+glossary is doing its job, and no re-decision is needed.
