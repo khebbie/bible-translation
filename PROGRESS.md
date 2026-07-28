@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 12 / 24 | ✅ ch. 1–12 | ✅ ch. 1–12 | ✅ ch. 1–12 |
+| Luke | 13 / 24 | ✅ ch. 1–13 | ✅ ch. 1–13 | ✅ ch. 1–13 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -46,8 +46,11 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   for the petitions Luke has.
 - **Small-coin policy set (0062):** ἀσσάριον = "skilling"; λεπτόν = "skærv" in the
   ESV-style — keep that word so 12:59 and the widow's mite in 21:2 read as one.
-- Luke 13: the fig tree, the bent woman, the narrow door, the lament over Jerusalem.
-  Watch 13:1-5 (Pilate and the Galileans — no parallel elsewhere) and μετανοέω.
+- **Dry measures set (0065):** σάτον = "mål" + footnote in ESV/NIV-style; NLT-style
+  converts to litres. The size is often the point of a parable — do not let it vanish.
+- Luke 14: the man with dropsy, places at table, the great banquet, the cost of
+  discipleship. Watch 14:26 (μισεῖ — "hate" father and mother, a Semitic comparative)
+  and the μνᾶ/βάτος measures in the steward parable at 16:6-7.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

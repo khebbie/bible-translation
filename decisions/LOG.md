@@ -598,3 +598,24 @@ ESV-style keeps the idiom — **"Lad jeres lænder være omgjordede"** — per i
 rule on retaining Semitic idiom, footnoting the sense. NIV-style "Vær klar til at gå
 i gang". NLT-style "Vær klar til at rykke ud". The image is of tucking a long robe into
 the belt in order to move fast.
+
+### 0065 — σάτον (Luke 13:21)
+**2026-07-28 · all · settled** (first dry-measure application of 0017)
+ESV-style **"tre mål mel"** with the Greek and the volume in a footnote; NIV-style the
+same; NLT-style converts to **metric — "omkring 40 liter mel"**.
+*Rationale:* a saton is roughly 13 litres, so three of them is an enormous batch —
+bread for a hundred people. The size is the point of the parable, and it is invisible
+in "three measures". This is exactly the case 0017 exists for.
+
+### 0066 — Luke 13:24 "den snævre dør"
+**2026-07-28 · all · settled**
+Follow NA **θύρα** — "dør" — not the TR's πύλη ("port"), which is assimilated from
+Matt 7:13. Luke's image runs on into vv25–27, where a householder shuts *a door*; the
+TR reading breaks the picture. Footnote the familiar "snævre port".
+
+### 0067 — Luke 13:35
+**2026-07-28 · all · settled**
+Omit the TR's **ἔρημος** — "jeres hus overlades til jer *øde*" — and footnote it. The
+word is imported from Matt 23:38. Luke's bare "jeres hus overlades til jer" is bleaker
+and should not be softened by explanation either.
+The closing quotation is Ps 118:26 and renders YHWH, so `\nd HERREN\nd*` applies (0033).
