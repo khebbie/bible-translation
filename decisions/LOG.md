@@ -640,3 +640,30 @@ ESV-style **"drakmer"** with a footnote (a drachma was about a day's wage); NIV-
 each was worth a day's work.
 *Rationale:* the woman has ten and loses one — a tenth of her savings, not small change.
 "Ti mønter" alone would lose that, so the value goes in the note in every version.
+
+### 0070 — μαμωνᾶς
+**2026-07-28 · all · settled**
+ESV-style keeps **"mammon"** — it is a transliterated Aramaic word in the Greek too, not
+an ordinary noun, and the charter retains such terms; footnote it as Aramaic for wealth.
+NIV-style **"penge"** / "Mammon" where personified at 16:13. NLT-style **"penge"**
+throughout.
+*Rationale:* at 16:13 Jesus sets mammon against God as a rival master, so the ESV- and
+NIV-style keep it as a name there; elsewhere it is simply money.
+
+### 0071 — βάτος and κόρος (Luke 16:6-7)
+**2026-07-28 · all · settled** (extends 0065)
+ESV-style **"hundrede fad olie … hundrede tønder hvede"** with the volumes footnoted;
+NIV-style the same; NLT-style converts to metric — "omkring 3.000 liter olivenolie" and
+"omkring 30 ton hvede".
+*Rationale:* the debts are enormous — several years' income each — and the steward's
+nerve is the point of the parable. In "a hundred measures" it disappears entirely.
+
+### 0072 — Luke 16:16 βιάζεται
+**2026-07-28 · all · settled**
+Render in the **middle/positive** sense — "og alle trænger ind i det med magt" (ESV-style),
+"og alle presser på for at komme ind" (NIV/NLT-style) — and footnote the passive
+alternative ("og enhver bruger vold imod det").
+*Rationale:* the verb is genuinely ambiguous between middle and passive, and both are
+ancient. The positive reading fits Luke's context — the crowds of toll collectors and
+sinners pressing in from 15:1 — and 0013's coherence test favours it. The alternative
+goes in the note per 0014.
