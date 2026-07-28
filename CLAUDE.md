@@ -9,10 +9,10 @@ differ from each other, and `WORKFLOW.md` for the roles and the per-pericope pip
 
 ## Current state
 
-Sources, charters and workflow are **done**. **One pericope translated: Romans
-3:21–26**, run end to end through the pipeline as a scaffolding test. Nothing else is
-translated. No tooling beyond an inline USFM sanity check. The directory is not a git
-repo.
+Sources, charters and workflow are **done**. Translation is **in progress**: see
+`PROGRESS.md` for the live count — currently Luke 1–7 in all three versions, plus
+Romans 3:21–26 as the original scaffolding pericope. No tooling beyond an inline USFM
+sanity check. The directory is not a git repo.
 
 ```
 bible/
@@ -23,6 +23,7 @@ bible/
 ├── CLAUDE.md          this file
 ├── briefs/            shared philological + exegetical briefs, one per pericope
 │                        + .checks.md — back-translation findings
+├── PROGRESS.md        live chapter count + notes carried forward
 ├── decisions/LOG.md   append-only precedent; READ BEFORE TRANSLATING
 ├── glossaries/        key-terms.tsv — term table across all three versions
 ├── esv/  charter/     essentially literal    — METHOD.md + official preface

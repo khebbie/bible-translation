@@ -2,10 +2,10 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 6 / 24 | ✅ ch. 1–6 | ✅ ch. 1–6 | ✅ ch. 1–6 |
+| Luke | 7 / 24 | ✅ ch. 1–7 | ✅ ch. 1–7 | ✅ ch. 1–7 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 7 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 8 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
 ## Notes carried forward
@@ -30,9 +30,12 @@ order.
 - Apostle names fixed at 6:14–16: Peter, Andreas, Jakob, Johannes, Filip,
   Bartholomæus, Matthæus, Thomas, Jakob (Alfæus' søn), Simon Zeloten, Judas (Jakobs
   søn), Judas Iskariot.
-- Luke 7 has the centurion, the widow of Nain, John's question, and the anointing at
-  Simon's house. Watch 7:2 (δοῦλος — apply 0008's context-graded rule) and the
-  δηνάρια in 7:41, where 0017 splits the versions on currency.
+- **δοῦλος = "tjener" by default in the Gospels** (0043), "slave" only where ownership
+  is the point. **Currency split is live** (0046): ESV/NIV keep "denarer" + footnote,
+  NLT-style converts to months/years of wages.
+- Luke 8 has the parable of the sower and its interpretation, the stilling of the
+  storm, the Gerasene demoniac, Jairus' daughter. Check 8:26 — the
+  Gerasenes/Gadarenes/Gergesenes variant is a real one and differs across editions.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

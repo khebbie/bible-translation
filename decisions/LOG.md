@@ -417,3 +417,47 @@ Likewise keep Luke's four Woes, which Matthew lacks.
 - 6:48 follow NA — the house stood **"fordi den var bygget godt"**, not the TR's "for
   it was founded on a rock" (assimilated from Matt 7:25). Footnote. Luke's point is the
   *building work*, not the rock; blurring it flattens his distinctive version.
+
+### 0043 — δοῦλος in the Gospels
+**2026-07-28 · all · settled**
+Default **"tjener"** where the relationship in view is domestic service (Luke 7:2–10;
+12:37; 17:7), **"slave"** where ownership or bondage is the point (12:47; 15:22 —
+weigh each). The ESV charter's own rule is context-graded, not concordant, for this
+word, and ESV English itself reads "servant" at Luke 7:2. Footnote the Greek where
+"tjener" is used for δοῦλος in a context a reader might expect "slave".
+Note Luke varies deliberately at 7:7, using **παῖς** — render "dreng"/"tjenestedreng"
+in the ESV-style so the shift is visible; the other two may keep "tjener".
+
+### 0044 — δικαιόω with a non-personal object
+**2026-07-28 · all · settled**
+0006 fixes δικαιόω where God declares a sinner righteous. Where the object is God or
+wisdom (Luke 7:29, 7:35), the sense is *vindicate / acknowledge to be right*:
+- 7:29 "gav Gud ret"
+- 7:35 ESV-style **"retfærdiggjort"** (its charter's concordance rule, which applies
+  "to the extent that plain Danish permits"); NIV-style "har fået ret"; NLT-style
+  "viser sig at have ret".
+*Rationale:* "retfærdiggjorde Gud" would mislead a Danish reader into hearing a defence
+of God's existence. Even ESV English breaks concordance here, reading "declared God
+just" at 7:29. Concordance yields where it would distort — the charter says so itself.
+
+### 0045 — Luke 7:47 ὅτι
+**2026-07-28 · all · settled**
+Translate plainly — "for hun elskede meget" — and **footnote the logic** in all three.
+The parable Jesus has just told (7:41–43) makes love the *result* of forgiveness, not
+its price; the second half of v47 ("den, som får lidt tilgivet, elsker lidt") confirms
+it. 0013 tells us to prefer the reading that keeps the passage coherent with itself,
+but the Greek ὅτι is genuinely open, so the resolution belongs in the note, not in a
+rewritten text.
+
+### 0046 — Currency at Luke 7:41 (first application of 0017)
+**2026-07-28 · all · settled**
+- ESV-style: **"fem hundrede denarer … halvtreds"**, footnoting that a denarius was a
+  day's wage.
+- NIV-style: same, with the equivalence in the footnote.
+- NLT-style: convert by function — **"halvandet års løn … halvanden måneds løn"** —
+  with the literal figure in the footnote.
+
+### 0047 — TR readings in Luke 7
+**2026-07-28 · all · settled**
+Follow NA at 7:19 (**κύριον**, "Herren", not the TR's "Jesus"). Omit and footnote the
+TR's "profet" at 7:28. Trivial TR additions (7:10, 7:11, 7:31, 7:44) are not noted.
