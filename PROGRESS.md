@@ -2,10 +2,10 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 1 / 24 | ✅ ch. 1 | ✅ ch. 1 | ✅ ch. 1 |
+| Luke | 2 / 24 | ✅ ch. 1–2 | ✅ ch. 1–2 | ✅ ch. 1–2 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 2 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 3 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
 ## Notes carried forward into Luke 2+
@@ -13,10 +13,11 @@ order.
 - Register is now set by Luke 1 and must hold: ESV-style keeps the Septuagintal
   καί-chains ("Og det skete…"); NIV-style keeps the cadence audible but breaks
   sentences; NLT-style is plain modern Danish. See decision 0021.
-- Luke 2 has the census, the angels' song (poetry — `\q1/\q2`), the Nunc Dimittis, and
-  Anna. Two named textual cruxes to check in TAGNT before translating: **2:14**
-  (εὐδοκίας vs εὐδοκία — "peace among those with whom he is pleased" vs "goodwill
-  toward men", a genuine translation-affecting variant) and **2:2** (Quirinius).
+- Luke 3 opens with the six-fold political synchronism (3:1–2), then John's preaching,
+  then the genealogy (3:23–38) — which needs a fixed transliteration policy for ~75
+  Hebrew names. Set that policy once and record it; it governs Matthew later too.
+- Luke 3:22 has a real variant worth checking: some witnesses read "today I have
+  begotten you" (Ps 2:7) at the baptism.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

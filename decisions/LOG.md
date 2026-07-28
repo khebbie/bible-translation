@@ -247,3 +247,44 @@ Render as **"solopgangen fra det høje"** (ESV/NIV-style) and "det lys, der bryd
 fra det høje" (NLT-style). ἀνατολή carries both "sunrise" and, in the LXX, the
 messianic "Branch" (צֶמַח, Jer 23:5; Zech 3:8; 6:12). Per 0013 the messianic resonance
 is kept rather than explained away; per 0014 the Branch sense goes in a footnote.
+
+### 0023 — κατάλυμα (Luke 2:7) is a guest room, not an inn
+**2026-07-28 · all · settled**
+Render **"gæsterummet"** in all three; footnote the traditional "herberg".
+*Rationale:* the NIV's own CBT notes cite this as a worked example of lexical advance —
+"we are more certain than we were forty years ago that the Greek word *kataluma* used
+in Luke 2:7 means 'guest room,' not 'inn'." Luke uses πανδοχεῖον for a commercial inn
+(10:34). The ESV charter likewise credits "current advances in… lexicography", and 0003
+binds us to the Greek rather than to ESV English's traditional "inn". 0013's
+"old over fashionable" governs genuine doubt; there is none here.
+
+### 0024 — Luke 2:14 εὐδοκίας
+**2026-07-28 · all · settled**
+Follow NA/UBS genitive **εὐδοκίας**: peace among people *on whom his favour rests* —
+not the TR/Byz nominative behind the KJV's "goodwill toward men". Footnote the
+traditional reading in all three; it is the form most readers know from carols.
+
+### 0025 — Luke 2:33 "his father"
+**2026-07-28 · all · settled**
+Follow NA/UBS **ὁ πατὴρ αὐτοῦ** — "hans far" — not the TR/Byz "Joseph". Footnote the
+variant.
+*Rationale:* 0004 binds us to the critical text, and the TR reading is a pious
+smoothing. 0013 is conservative *bibliology*, not the adoption of softened readings: it
+tells us to take the text as it stands and not to sharpen — or blunt — it into a
+proof-text. Luke, who has just narrated the virgin birth, calls Joseph Jesus' father in
+the ordinary legal and social sense, exactly as he writes "his parents" at 2:41 and
+2:43. Translating it plainly is the conservative act.
+
+### 0026 — Luke 2:2 Quirinius
+**2026-07-28 · all · settled**
+Translate as it stands: "Denne første folketælling fandt sted, mens Kvirinius var
+statholder i Syrien." Footnote the alternative construal of πρώτη ("before Quirinius
+was governor"), which relieves the chronological difficulty but strains the Greek.
+Text plain, alternative in the note — 0013 with 0014.
+
+### 0027 — χριστός in Luke
+**2026-07-28 · all · settled**
+ESV-style: **"Kristus"** throughout (its charter mandates flat consistency).
+NIV-style: "Kristus", with "Messias" where the Jewish frame is explicit.
+NLT-style: **"Messias"** wherever the audience in view is Jewish — which in Luke 1–2 is
+everywhere (shepherds, Simeon, Anna) — per its charter's explicit rule.
