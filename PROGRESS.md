@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 10 / 24 | ✅ ch. 1–10 | ✅ ch. 1–10 | ✅ ch. 1–10 |
+| Luke | 11 / 24 | ✅ ch. 1–11 | ✅ ch. 1–11 | ✅ ch. 1–11 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -41,10 +41,12 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - Gerasenes settled at 8:26/8:37 (0048); κράσπεδον = "kvasten på kappen" (0050).
 - **The travel narrative began at 9:51** and runs to 19:44 — the long central section
   unique to Luke. Register should stay steady across it.
-- Luke 11: the Lord's Prayer (11:2-4) — Luke's form is **shorter** than Matthew's and
-  the TR pads it out from Matt 6; follow NA and footnote, this is the single most
-  recognisable place where the critical text differs from the tradition. Then the
-  Beelzebul controversy and the woes against Pharisees and lawyers (apply 0040).
+- **Fadervor settled (0059):** Luke's shorter five-petition form, with the Matthean
+  additions quoted in full in the footnote. ESV-style uses the received Danish wording
+  for the petitions Luke has.
+- Luke 12 is long (59 verses): warnings about hypocrisy and greed, the rich fool,
+  do-not-worry, watchfulness, division. Watch 12:8-10 (blasphemy against the Spirit)
+  and the μαμωνᾶς / θησαυρός vocabulary.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

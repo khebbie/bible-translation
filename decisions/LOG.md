@@ -544,3 +544,31 @@ low, not about final judgment.
 **2026-07-28 · all · settled**
 Deut 6:5 renders YHWH, so `\nd HERREN\nd*` applies per 0033: "Du skal elske
 \nd HERREN\nd* din Gud…". Same wherever the Shema or the Decalogue is quoted.
+
+### 0059 — Luke's Fadervor is shorter than Matthew's
+**2026-07-28 · all · settled**
+Follow NA/SBL and print **Luke's five-petition form**: "Fader! Helliget blive dit navn,
+komme dit rige! Giv os hver dag vort daglige brød, og forlad os vore synder… og led os
+ikke ind i fristelse." The TR pads Luke out from Matt 6:9–13 with "vor … du som er i
+himlene", "ske din vilje, som i himlen således også på jorden" and "men fri os fra det
+onde".
+**Footnote the omitted clauses in full, quoting them**, in all three versions. This is
+the single most recognisable place where the critical text departs from what Danish
+churchgoers know by heart, and 0004 plus 0014 both require that the reader be told
+rather than left to suspect an error.
+*Register:* the ESV-style uses the received Danish wording of the Fadervor for the
+petitions Luke actually has — 0016 tells it to stay close to the tradition, and there is
+no merit in a fresh rendering of words every Dane already knows. The NLT-style may
+recast; even there, do not obscure that this is the Lord's Prayer.
+
+### 0060 — ἐπιούσιος (Luke 11:3)
+**2026-07-28 · all · settled**
+**"vort daglige brød"** in all three, footnoting that the Greek word is otherwise
+unknown and may mean "for the coming day" or "necessary for existence". The traditional
+rendering is right under 0013, but the uncertainty is real and belongs in a note.
+
+### 0061 — Βεελζεβούλ
+**2026-07-28 · all · settled**
+**"Beelzebul"** in all three, footnoting it as a name for the ruler of the demons.
+Not "Beelzebub", which comes via the Vulgate and Syriac; the Greek is consistently
+-βουλ.
