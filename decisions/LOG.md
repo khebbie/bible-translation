@@ -733,3 +733,18 @@ verse — David calls someone other than YHWH "my lord". Rendering both alike de
 the point in any translation philosophy, which makes this a 0007-type case: protect the
 argument first. The typographic distinction does the work no wording can.
 Applies wherever Ps 110:1 is quoted (Matt 22:44; Mark 12:36; Acts 2:34; Heb 1:13).
+
+### 0080 — The two bracketed passages in Luke 22
+**2026-07-28 · all · settled**
+**22:19b–20** (the cup after supper, "det nye testamente ved mit blod") and
+**22:43–44** (the angel and the sweat like blood): **print both in the text**, and
+footnote in all three that the oldest witnesses are divided.
+*Rationale:* both are printed by NA28 — 19b–20 without brackets, 43–44 in double
+brackets — and ESV, NIV and NLT all print both with a note. 0013 takes the received
+text where the evidence is genuinely divided rather than the shorter Western reading,
+and 0014 requires the reader be told. Bracketing them typographically in Danish would
+imply a confidence the evidence does not support in either direction; a footnote states
+the position honestly.
+*Note on 22:19b–20:* this is the only account of the institution in Luke, and the
+"new covenant in my blood" wording is the one Danish readers know from the liturgy —
+its silent removal would be very widely noticed.
