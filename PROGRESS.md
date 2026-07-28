@@ -3,6 +3,7 @@
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
+| Mark | 1 / 16 | ✅ ch. 1 | ✅ ch. 1 | ✅ ch. 1 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -61,12 +62,15 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
   Nazaret, Judæa, Galilæa, Johannes, Gabriel, Abia(ja).
 
-## Next
+## Mark — notes carried forward
 
-Luke is finished. `bd ready` returns **MRK 1** (Mark), which was gated behind Luke
-finishing so the naming and term precedent would be set first. Mark is short (16 ch) and
-will test whether the register decisions transfer to a different author — Mark's Greek
-is much rougher than Luke's, and the ESV-style especially must not smooth it.
+- **εὐθύς is the engine of Mark** (0084): ESV-style "straks" concordantly all ~42 times;
+  NIV-style mostly "straks"; NLT-style may vary but must not lose the breathlessness.
+- **Historic present kept** in the ESV-style where Danish carries it (0085). Mark's Greek
+  is rough and paratactic — **the ESV-style must read noticeably rougher in Mark than in
+  Luke**, or the charter is not being applied.
+- **NA28 governs over SBLGNT** where they diverge (0083); TAGNT settles it. First hit was
+  Mark 1:41 (compassion, not anger) and 1:1 ("Guds Søn" kept).
 
 ## Standing debt
 

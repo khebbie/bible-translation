@@ -772,3 +772,49 @@ century's confidence in the Western text at these points has largely receded. 24
 matter most: without them Luke's Gospel does not narrate the ascension at all, which
 would leave Acts 1 without its counterpart, and 0013's coherence test weighs against
 that.
+
+---
+
+## Mark
+
+### 0083 — Where SBLGNT and NA28 diverge, NA28 governs
+**2026-07-28 · all · settled** (clarifies 0004)
+0004 says "follow NA/UBS (via SBLGNT + TAGNT edition tags)". SBLGNT is the **vehicle**
+we read the text from; **NA28 is the authority**. Where they differ, TAGNT's edition
+tags settle it and we take NA28.
+*First application:* **Mark 1:41**. SBLGNT alone prints ὀργισθείς ("moved with anger");
+NA28, NA27, THGNT, Tregelles, TR and Byz all read **σπλαγχνισθείς** ("moved with
+compassion"). We read "han ynkedes inderligt over ham" and footnote the "anger"
+reading, which is the harder one and has genuine early support.
+Also applies at **Mark 1:1**, where NA28 has υἱοῦ θεοῦ but SBL and WH omit: we print
+**"Guds Søn"** and footnote.
+
+### 0084 — εὐθύς is Mark's signature and must stay audible
+**2026-07-28 · all · settled**
+Mark uses εὐθύς about **42 times** — more than the rest of the NT together. It is not
+filler; it is the engine of his narrative pace.
+- **ESV-style: "straks", concordantly, every time.** Its charter requires the same word
+  for important recurring words, and no word recurs more distinctively in Mark.
+- **NIV-style:** "straks" as the default, varying ("med det samme", "med ét") only where
+  Danish would otherwise grate.
+- **NLT-style:** may vary freely and may occasionally drop it — but **not** so often that
+  the breathlessness disappears. Its charter's gate test is about clarity, and "straks"
+  is not unclear; the licence here is rhythm, not sense.
+
+### 0085 — Mark's historic present
+**2026-07-28 · all · settled**
+Mark constantly narrates in the present tense (ἔρχεται, λέγει). Danish narrative
+tolerates the historic present better than English does, so the ESV-style **keeps it**
+where the Danish carries it — this is exactly the "stylistic variety of the biblical
+writers" its charter protects. NIV-style keeps it in vivid moments and otherwise uses
+the past. NLT-style uses ordinary past narration.
+*Standing warning for Mark:* his Greek is rough and paratactic where Luke's is polished.
+**Do not smooth it.** The ESV-style in particular must read noticeably rougher in Mark
+than in Luke, or the charter is not being applied.
+
+### 0086 — Mark 1:2 attributes a composite quotation to Isaiah
+**2026-07-28 · all · settled**
+Follow NA/UBS **"hos profeten Esajas"**, not the TR's "hos profeterne". Footnote in all
+three that the quotation combines **Mal 3:1** with **Isa 40:3**, and that the TR reading
+looks like a scribal tidying of exactly that difficulty. 0013 does not license removing
+a difficulty the best manuscripts preserve.
