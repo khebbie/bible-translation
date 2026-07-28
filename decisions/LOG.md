@@ -331,3 +331,32 @@ we follow.
 ESV-style and NIV-style: **"landsfyrste"** (the established Danish term).
 NLT-style: describe the office — "regerede over…" — per its charter's rule on
 institutions that have no modern counterpart.
+
+### 0032 — Luke 4:44 "Judæa"
+**2026-07-28 · all · settled**
+Follow NA/UBS **Ἰουδαίας** — "synagogerne i Judæa" — not the TR/Byz "Galilæa".
+Footnote the variant. It is the harder reading (Jesus has just been in Galilee), which
+is precisely why it is likelier original; Luke uses Ἰουδαία at times for the Jewish
+homeland as a whole. 0004 binds; 0013 does not license smoothing a difficulty away.
+
+### 0033 — `\nd` in New Testament quotations of the Old
+**2026-07-28 · all · settled**
+Where the NT quotes an OT passage that has **YHWH**, set the Danish as
+`\nd HERREN\nd*`. First applied at Luke 4:8, 4:12 (Deut 6:13, 6:16) and 4:18–19
+(Isa 61:1–2). Elsewhere κύριος is ordinary "Herren".
+*Rationale:* this is the NLT charter's stated rule, and 0002 makes it binding on all
+three. It also serves the ESV charter's requirement that OT-in-NT correspondence be
+visible.
+
+### 0034 — Luke 4:18–19 is a composite citation
+**2026-07-28 · all · settled**
+Luke's Isaiah reading follows the LXX of Isa 61:1–2 but drops "to bind up the
+brokenhearted" and splices in "to set the oppressed free" from **Isa 58:6**. Translate
+Luke's text as it stands and footnote the composition in all three versions — a reader
+comparing with a Danish Isaiah will otherwise think the translation is faulty.
+
+### 0035 — TR additions in Luke 4
+**2026-07-28 · all · settled**
+Omit and footnote, per 0004: 4:4 "men af hvert Guds ord"; 4:8 "Vig bort fra mig,
+Satan"; 4:18 "at helbrede dem, hvis hjerte er knust". Trivial TR articles and
+connectives (4:2, 4:5, 4:9, 4:41) are not noted.

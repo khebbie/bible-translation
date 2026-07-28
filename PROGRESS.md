@@ -2,10 +2,10 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 3 / 24 | ✅ ch. 1–3 | ✅ ch. 1–3 | ✅ ch. 1–3 |
+| Luke | 4 / 24 | ✅ ch. 1–4 | ✅ ch. 1–4 | ✅ ch. 1–4 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 4 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 5 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
 ## Notes carried forward
@@ -19,9 +19,12 @@ order.
   (Melki, Jannaj, Josek, Joda, Joanan, Resa, Maat, Semein, Naggaj, Esli, Elmadam,
   Kosam, Addi, Jorim, Jonam, Eljakim, Melea, Menna, Mattata, Admin, Arni). This governs
   Matthew's genealogy too — do not re-decide it there.
-- Luke 4 has the temptation (OT quotations from Deut — check whether Luke follows LXX,
-  and use `\nd HERREN\nd*` where the quotation renders YHWH, per 0005) and the Nazareth
-  sermon quoting Isa 61, where Luke's citation diverges from both MT and LXX.
+- **`\nd HERREN\nd*` is now live in NT quotations** — decision 0033. Used at 4:8, 4:12,
+  4:18, 4:19. Apply wherever an OT citation renders YHWH; ordinary κύριος stays "Herren".
+- Fixed in Luke 4: Kapernaum, Sarepta, Elias, Elisa, Na'aman, Sidon, Djævelen, Satan.
+- Luke 5 brings the first controversy stories and the first parables; watch for
+  ἁμαρτωλός ("synder") and the Son-of-Man sayings, which need a standing rendering —
+  "Menneskesønnen" in all three — set it when it first appears at 5:24.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
