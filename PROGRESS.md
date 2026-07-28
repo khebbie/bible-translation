@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 7 / 24 | ✅ ch. 1–7 | ✅ ch. 1–7 | ✅ ch. 1–7 |
+| Luke | 8 / 24 | ✅ ch. 1–8 | ✅ ch. 1–8 | ✅ ch. 1–8 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -38,9 +38,10 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - **δοῦλος = "tjener" by default in the Gospels** (0043), "slave" only where ownership
   is the point. **Currency split is live** (0046): ESV/NIV keep "denarer" + footnote,
   NLT-style converts to months/years of wages.
-- Luke 8 has the parable of the sower and its interpretation, the stilling of the
-  storm, the Gerasene demoniac, Jairus' daughter. Check 8:26 — the
-  Gerasenes/Gadarenes/Gergesenes variant is a real one and differs across editions.
+- Gerasenes settled at 8:26/8:37 (0048); κράσπεδον = "kvasten på kappen" (0050).
+- Luke 9 is long (62 verses): feeding of the 5000, Peter's confession, the
+  Transfiguration, then the travel narrative begins at 9:51. Watch 9:20 (χριστὸς τοῦ
+  θεοῦ — apply 0027) and 9:31 (ἔξοδος at the Transfiguration, a deliberate word).
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,

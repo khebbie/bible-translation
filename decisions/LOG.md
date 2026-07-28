@@ -461,3 +461,25 @@ rewritten text.
 **2026-07-28 · all · settled**
 Follow NA at 7:19 (**κύριον**, "Herren", not the TR's "Jesus"). Omit and footnote the
 TR's "profet" at 7:28. Trivial TR additions (7:10, 7:11, 7:31, 7:44) are not noted.
+
+### 0048 — Luke 8:26, 37 "gerasenernes egn"
+**2026-07-28 · all · settled**
+Follow NA/UBS **Γερασηνῶν** — "gerasenernes egn" — not the TR's "gadarenernes".
+Footnote the variants in all three.
+*Rationale:* 0004 binds us to the critical text. Gerasa lies some 50 km from the lake,
+which is exactly why later copyists substituted the nearer Gadara and Gergesa; the
+geographical difficulty makes Γερασηνῶν the harder and likelier reading. 0013 does not
+license smoothing it away, and Luke says only "the region of", not the town itself.
+
+### 0049 — TR additions in Luke 8
+**2026-07-28 · all · settled**
+Omit and footnote: 8:45 "og de, som var med ham" plus the repeated "og du siger: Hvem
+rørte ved mig?"; 8:48 "Vær frimodig"; 8:54 "men han sendte dem alle ud". Trivial TR
+variants (8:34, 8:38, 8:40) are not noted.
+
+### 0050 — κράσπεδον (Luke 8:44)
+**2026-07-28 · all · settled**
+ESV-style and NIV-style **"kvasten på hans kappe"**; NLT-style the same with a footnote
+explaining the tassel. It is not a generic hem: κράσπεδον renders the *tzitzit*
+commanded in Num 15:38–39, and the woman's reaching for it is a deliberate detail.
+Footnote the Numbers reference in all three.
