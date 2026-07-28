@@ -360,3 +360,33 @@ comparing with a Danish Isaiah will otherwise think the translation is faulty.
 Omit and footnote, per 0004: 4:4 "men af hvert Guds ord"; 4:8 "Vig bort fra mig,
 Satan"; 4:18 "at helbrede dem, hvis hjerte er knust". Trivial TR articles and
 connectives (4:2, 4:5, 4:9, 4:41) are not noted.
+
+### 0036 — ὁ υἱὸς τοῦ ἀνθρώπου
+**2026-07-28 · all · settled**
+**"Menneskesønnen"** in all three versions, always, and always definite. First
+occurrence Luke 5:24; roughly 25 more follow in this Gospel.
+*Rationale:* it is a title, not a description, and it carries the Dan 7:13 allusion.
+Even the NLT-style keeps it: its charter's gate test is not met, since "Menneskesønnen"
+is entirely clear Danish, and paraphrasing it ("jeg" or "jeg, der er sendt fra Gud")
+would erase a self-designation the reader is meant to track across the whole Gospel.
+0013 also favours the received Danish rendering.
+
+### 0037 — ἐπιστάτα
+**2026-07-28 · all · settled**
+**"Mester"**. Luke alone uses ἐπιστάτης for Jesus (5:5; 8:24, 45; 9:33, 49; 17:13) where
+the other Gospels use ῥαββί or διδάσκαλος — a deliberate Lukan choice for a
+Greek-speaking readership. Keep it distinct from διδάσκαλος, which is also "Mester" in
+Danish; where both appear near each other, the ESV-style may use "Mester" for ἐπιστάτης
+and "Lærer" for διδάσκαλος to preserve the distinction.
+
+### 0038 — ἁμαρτωλός
+**2026-07-28 · all · settled**
+**"synder"** (noun) / "syndig" (adj.) in all three. Do not soften to "et almindeligt
+menneske" or similar in the NLT-style: in Luke the word is a social-religious label the
+Pharisees apply, and the whole point of 5:30–32 and 15:1–2 depends on it stinging.
+
+### 0039 — TR additions in Luke 5
+**2026-07-28 · all · settled**
+Omit and footnote 5:38 "og begge dele bevares". Follow NA at 5:33 (statement, not the
+TR's question) and 5:17 (αὐτόν — the Lord's power was with *him* to heal). Trivial TR
+articles and adverbs (5:3, 5:5, 5:15, 5:39) are not noted.

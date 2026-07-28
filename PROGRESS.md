@@ -2,10 +2,10 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 4 / 24 | ✅ ch. 1–4 | ✅ ch. 1–4 | ✅ ch. 1–4 |
+| Luke | 5 / 24 | ✅ ch. 1–5 | ✅ ch. 1–5 | ✅ ch. 1–5 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 5 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 6 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
 ## Notes carried forward
@@ -22,9 +22,11 @@ order.
 - **`\nd HERREN\nd*` is now live in NT quotations** — decision 0033. Used at 4:8, 4:12,
   4:18, 4:19. Apply wherever an OT citation renders YHWH; ordinary κύριος stays "Herren".
 - Fixed in Luke 4: Kapernaum, Sarepta, Elias, Elisa, Na'aman, Sidon, Djævelen, Satan.
-- Luke 5 brings the first controversy stories and the first parables; watch for
-  ἁμαρτωλός ("synder") and the Son-of-Man sayings, which need a standing rendering —
-  "Menneskesønnen" in all three — set it when it first appears at 5:24.
+- **Menneskesønnen** is fixed for ὁ υἱὸς τοῦ ἀνθρώπου in all three (0036), including
+  the NLT-style. ἐπιστάτης = "Mester" (0037), ἁμαρτωλός = "synder" (0038).
+- Luke 6 has the Sabbath controversies, the choosing of the Twelve, and the Sermon on
+  the Plain (6:20–49) — the Beatitudes and Woes are poetry and need `\q1/\q2`. Fix the
+  rendering of μακάριος when it first appears at 6:20; it recurs throughout Luke.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
