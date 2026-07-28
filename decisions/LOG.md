@@ -483,3 +483,37 @@ ESV-style and NIV-style **"kvasten på hans kappe"**; NLT-style the same with a 
 explaining the tassel. It is not a generic hem: κράσπεδον renders the *tzitzit*
 commanded in Num 15:38–39, and the woman's reaching for it is a deliberate detail.
 Footnote the Numbers reference in all three.
+
+### 0051 — Luke 9:35 "min udvalgte"
+**2026-07-28 · all · settled**
+Follow NA/UBS **ὁ ἐκλελεγμένος** — "Det er min Søn, den udvalgte" — not the TR's
+ἀγαπητός ("den elskede"). Footnote the variant.
+*Rationale:* the TR reading is assimilated from the baptism (3:22) and from the Synoptic
+parallels. Luke deliberately varies: *elskede* at the baptism, **udvalgte** at the
+Transfiguration, picking up the Servant of Isa 42:1. Levelling the two erases the
+allusion. 0004 binds; 0013 does not license harmonising.
+
+### 0052 — Luke 9:54–56, the long TR addition
+**2026-07-28 · all · settled**
+Omit and footnote in all three: "ligesom Elias gjorde" (v54) and the whole of "og sagde:
+I ved ikke, hvad ånd I er af; for Menneskesønnen er ikke kommet for at ødelægge
+menneskeliv, men for at frelse dem" (vv55–56).
+*Rationale:* absent from the critical text. It is a well-loved passage and its
+disappearance will be noticed, so 0004 requires the note — quoted in full there, since
+readers of older Danish Bibles know it by heart.
+
+### 0053 — ἔξοδος (Luke 9:31) and ἀνάλημψις (9:51)
+**2026-07-28 · all · settled**
+9:31 — ESV-style **"hans bortgang"**, footnoting that the Greek is *exodos*; NIV-style
+"hans bortgang"; NLT-style "hvordan han skulle forlade verden", same footnote. Luke's
+word choice on the mountain, with Moses standing there, is not accidental.
+9:51 — ESV-style **"da tiden nærmede sig, da han skulle tages op"**; the other two may
+say "da tiden nærmede sig, hvor han skulle tages op til himlen". ἀνάλημψις points
+forward to the ascension, which only Luke narrates.
+
+### 0054 — τὸ πρόσωπον ἐστήρισεν (Luke 9:51)
+**2026-07-28 · all · settled**
+ESV-style keeps the Semitic idiom — **"vendte han sit ansigt fast mod Jerusalem"** —
+per its charter's rule on retaining idiom. NIV-style "besluttede han sig fast for at
+drage til Jerusalem". NLT-style "satte han kursen mod Jerusalem, fast besluttet".
+The phrase echoes Ezek 21:2 and Isa 50:7; footnote it in the ESV-style only.

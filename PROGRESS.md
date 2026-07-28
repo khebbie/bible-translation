@@ -2,7 +2,7 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 8 / 24 | ✅ ch. 1–8 | ✅ ch. 1–8 | ✅ ch. 1–8 |
+| Luke | 9 / 24 | ✅ ch. 1–9 | ✅ ch. 1–9 | ✅ ch. 1–9 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
@@ -39,9 +39,10 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   is the point. **Currency split is live** (0046): ESV/NIV keep "denarer" + footnote,
   NLT-style converts to months/years of wages.
 - Gerasenes settled at 8:26/8:37 (0048); κράσπεδον = "kvasten på kappen" (0050).
-- Luke 9 is long (62 verses): feeding of the 5000, Peter's confession, the
-  Transfiguration, then the travel narrative begins at 9:51. Watch 9:20 (χριστὸς τοῦ
-  θεοῦ — apply 0027) and 9:31 (ἔξοδος at the Transfiguration, a deliberate word).
+- **The travel narrative began at 9:51** and runs to 19:44 — the long central section
+  unique to Luke. Register should stay steady across it.
+- Luke 10: sending of the seventy(-two) — check the 10:1/10:17 number variant, it is a
+  real one (ἑβδομήκοντα vs ἑβδομήκοντα δύο). Then the Good Samaritan and Mary/Martha.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
