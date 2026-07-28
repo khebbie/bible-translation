@@ -1,18 +1,22 @@
 source	strongs	gloss	esv_da	niv_da	nlt_da	decision	status
 δικαιοσύνη	G1343	righteousness	retfærdighed	retfærdighed	retfærdighed	0006	settled
 δικαιόω	G1344	justify, declare righteous	retfærdiggøre	gøre retfærdig	erklære retfærdig	0006	settled
+δικαιόω (upers.)	G1344	vindicate, prove right	retfærdiggjort / give ret	få ret	vise sig at have ret	0044	settled
 δίκαιος	G1342	just, righteous	retfærdig	retfærdig	retfærdig	0007	settled
 πίστις	G4102	faith, faithfulness	tro	tro	tro / sætte sin lid til	0010	settled
 πιστεύω	G4100	believe	tro	tro	tro	—	settled
 χάρις	G5485	grace	nåde	nåde	nåde / fordi han er nådig	—	settled
 ἀπολύτρωσις	G629	redemption, release by ransom	forløsning	forløsning	købe fri	—	settled
+λύτρωσις	G3085	redemption	forløsning	sætte fri	sætte fri	—	settled
 ἱλαστήριον	G2435	propitiation / expiation / mercy seat	sonoffer	sonoffer	det offer, der bærer vores skyld bort	0008	settled
 πάρεσις	G3929	passing over, letting go unpunished	bære over med	lade gå ustraffet hen	lade gå ustraffet hen	0009	settled
-ἄφεσις	G859	forgiveness, remission	tilgivelse	tilgivelse	tilgivelse	0009	settled
+ἄφεσις	G859	forgiveness, remission	tilgivelse / forladelse	tilgivelse	tilgivelse	0009	settled
 ἀνοχή	G463	forbearance, restraint	langmodighed	tålmodighed	holde igen	—	settled
 δωρεάν	G1432	freely, as a gift, gratis	uforskyldt	ufortjent	gratis	0011	settled
 ἁμαρτάνω	G264	sin	synde	synde	synde	—	settled
 ἁμάρτημα	G265	a sin (act)	synd	synd	synd	—	settled
+ἁμαρτία	G266	sin	synd	synd	synd	—	settled
+ἁμαρτωλός	G268	sinner	synder / syndig	synder / syndig	synder / syndig	0038	settled
 δόξα	G1391	glory	herlighed	herlighed	herlighed	—	settled
 ὑστερέω	G5302	fall short of, lack	komme til kort over for	komme til kort over for	ikke nå op til	—	settled
 νόμος	G3551	law; the Law (Torah)	lov / Loven	lov / Loven	lov / Moses' lov	—	settled
@@ -21,3 +25,61 @@ source	strongs	gloss	esv_da	niv_da	nlt_da	decision	status
 μαρτυρέω	G3140	bear witness, attest	bevidne	vidne om	vidne om	0019	settled
 προτίθημι	G4388	set forth publicly; purpose beforehand	fremstille	fremstille	stille frem for alles øjne	0019	settled
 YHWH	H3068	the divine name	\nd HERREN\nd*	\nd HERREN\nd*	\nd HERREN\nd*	0005	settled
+YHWH tseba'oth	H3068+H6635	LORD of hosts	Hærskarers HERRE	Hærskarers HERRE	HERREN, den Almægtige	0018	settled
+κύριος	G2962	Lord	Herren	Herren	Herren	0033	settled
+κύριος (GT-citat)	G2962	LORD rendering YHWH	\nd HERREN\nd*	\nd HERREN\nd*	\nd HERREN\nd*	0033	settled
+χριστός	G5547	Christ, Messiah	Kristus	Kristus (Messias hvor jødisk ramme)	Messias	0027	settled
+ὁ υἱὸς τοῦ ἀνθρώπου	G5207+G444	the Son of Man	Menneskesønnen	Menneskesønnen	Menneskesønnen	0036	settled
+υἱὸς τοῦ θεοῦ	G5207+G2316	Son of God	Guds Søn	Guds søn	Guds søn	—	settled
+ὕψιστος	G5310	the Most High	den Højeste	den Højeste	Den Højeste	—	settled
+πνεῦμα ἅγιον	G4151+G40	Holy Spirit	Helligånden	Helligånden	Helligånden	—	settled
+διάβολος	G1228	devil	Djævelen	Djævelen	Djævelen	—	settled
+σατανᾶς	G4567	Satan	Satan	Satan	Satan	—	settled
+δαιμόνιον	G1140	demon	dæmon	dæmon	ond ånd	—	settled
+πνεῦμα ἀκάθαρτον	G4151+G169	unclean spirit	uren ånd	uren ånd	ond ånd	—	settled
+ἄγγελος	G32	angel; messenger	engel (budbringer om mennesker)	engel / budbringer	engel / budbringer	—	settled
+μακάριος	G3107	blessed	Salig er…	Salige er…	Gud velsigner…	0040	settled
+οὐαί	G3759	woe	Ve jer	Ve jer	Hvor vil I komme til at sørge	0040	settled
+βασιλεία τοῦ θεοῦ	G932+G2316	kingdom of God	Guds rige	Guds rige	Guds rige	—	settled
+μετάνοια	G3341	repentance	omvendelse	omvendelse	vende om	—	settled
+μετανοέω	G3340	repent	omvende sig	omvende sig	vende om	—	settled
+εὐαγγελίζομαι	G2097	proclaim good news	forkynde evangeliet	forkynde det gode budskab	fortælle den gode nyhed	—	settled
+εὐαγγέλιον	G2098	gospel	evangeliet	det gode budskab	den gode nyhed	—	settled
+παραβολή	G3850	parable	lignelse	lignelse	historie	—	settled
+σπλάγχνα	G4698	bowels; deep compassion	inderlig barmhjertighed	dyb barmhjertighed	fuld af inderlig barmhjertighed	—	settled
+σπλαγχνίζομαι	G4697	have compassion	ynkes inderligt	få inderligt ondt af	få ondt af	—	settled
+ἔλεος	G1656	mercy	barmhjertighed	barmhjertighed	barmhjertighed	—	settled
+οἰκτίρμων	G3629	merciful	barmhjertig	barmhjertig	barmhjertig	—	settled
+πτωχός	G4434	poor	fattig	fattig	fattig	—	settled
+δοῦλος	G1401	slave, servant	tjener (slave hvor ejerskab er pointen)	tjener	tjener	0043	settled
+παῖς	G3816	boy; servant	dreng	tjener	tjener	0043	settled
+ἐπιστάτης	G1988	master (Lukan vocative)	Mester	Mester	Mester	0037	settled
+διδάσκαλος	G1320	teacher	Lærer (Mester hvor ingen kollision)	Mester	Mester	0037	settled
+μαθητής	G3101	disciple	discipel	discipel	discipel	—	settled
+ἀπόστολος	G652	apostle	apostel	apostel	apostel	—	settled
+προφήτης	G4396	prophet	profet	profet	profet	—	settled
+γραμματεύς	G1122	scribe	skriftklog	skriftklog	skriftklog	—	settled
+Φαρισαῖος	G5330	Pharisee	farisæer	farisæer	farisæer	—	settled
+νομικός	G3544	lawyer, expert in the law	lovkyndig	lovkyndig	lovkyndig	—	settled
+τελώνης	G5057	tax collector	tolder	tolder	skatteopkræver	—	settled
+ἱερεύς	G2409	priest	præst	præst	præst	—	settled
+ἀρχιερεύς	G749	high priest	ypperstepræst	ypperstepræst	ypperstepræst	—	settled
+συναγωγή	G4864	synagogue	synagoge	synagoge	synagoge	—	settled
+ἱερόν / ναός	G2411 / G3485	temple	templet	templet	templet	—	settled
+σάββατον	G4521	sabbath	sabbat	sabbat	sabbat	—	settled
+λέπρα	G3014	leprosy	spedalskhed	spedalskhed	spedalskhed	—	settled
+σωτήρ	G4990	saviour	frelser	frelser	frelser	—	settled
+σῴζω	G4982	save, heal	frelse	frelse / redde	frelse / redde	—	settled
+σωτηρία	G4991	salvation	frelse	frelse	frelse	—	settled
+ὑποκριτής	G5273	hypocrite	hykler	hykler	hykler	—	settled
+σκανδαλίζομαι	G4624	stumble, take offence	forarges	tage anstød	miste troen	—	settled
+ὄχλος	G3793	crowd	skare	folkeskare	menneskemængde	—	settled
+ῥῆμα	G4487	word; thing, matter	ord	ord	ord	—	settled
+λόγος	G3056	word	ord	ord	ord	—	settled
+κατάλυμα	G2646	guest room	gæsterummet	gæsterummet	gæsteværelset	0023	settled
+πανδοχεῖον	G3829	inn	herberg	herberg	kro	0023	settled
+δηνάριον	G1220	denarius (a day's wage)	denar	denar	dagløn (omregnet)	0046	settled
+τετραάρχης	G5076	tetrarch	landsfyrste	landsfyrste	regerede over	0031	settled
+ἀνατολή	G395	sunrise; Branch (LXX messianic)	solopgangen fra det høje	solopgangen fra det høje	lyset, der bryder frem	0022	settled
+κέρας σωτηρίας	G2768+G4991	horn of salvation	frelsens horn	en mægtig frelser	en stærk frelser	—	settled
+ἐπισκέπτομαι	G1980	visit, look upon in mercy	besøge	besøge	komme for at hjælpe	—	settled

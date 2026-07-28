@@ -49,6 +49,17 @@ the historian" seat. The actual division was different, and more useful:
 | **Committee pass** | Cross-passage consistency: concordance, proper names, divine names, footnotes. Approves every verse. | Re-open settled exegesis without cause. |
 | **Cold reader** | Reads *only* the Danish, having never seen the source, and reports what they understood. | See the Hebrew/Greek. Ever. |
 
+## At book scale (decision 0020)
+
+The full written brief below is for **passages that earn it** — a real textual variant,
+a doctrinally loaded term, an exegetical crux, a Semitic idiom needing a ruling.
+Routine narrative is carried by `glossaries/` and settled precedent in
+`decisions/LOG.md`. Checks run per chapter, not per pericope.
+
+**Task tracking lives in beads (`bd`), not in markdown.** Every chapter of the four
+Gospels is a `bd` issue under a per-Gospel epic, chained sequentially so `bd ready`
+returns exactly the next chapter. See "Working autonomously" below.
+
 ## The pipeline, per pericope
 
 **Stages 1–2 are shared across all three versions. This is the most important
@@ -131,16 +142,41 @@ adversarial work must be done fresh. If we want these as separate agents rather 
 separate passes, say so and I will wire it up; the discipline matters more than the
 mechanism, but blind checks are worth real isolation.
 
+## Working autonomously
+
+`bd ready` returns the next chapter to translate. The loop is:
+
+```
+bd ready                     # next chapter, e.g. bible-ycn.8
+bd update <id> --claim
+  … translate per the pipeline above …
+bd close <id> --reason="…"
+```
+
+Chapters are chained within each Gospel, and Mark/Matthew/John chapter 1 each depend on
+Luke 24 — because Luke is where the naming, term and register precedent is being set,
+and decision 0028 already commits Matthew's genealogy to it. To work the Gospels in
+parallel instead, drop those three cross-Gospel dependencies.
+
+Everything a fresh session needs is on disk: `decisions/LOG.md` is binding precedent,
+`glossaries/key-terms.tsv` and `names.tsv` are the working memory, `PROGRESS.md` holds
+the notes carried forward into the next chapter.
+
 ## Persistent artifacts
 
 The committees' true output was accumulated precedent as much as text. Without this,
 chapter 40 will not match chapter 3.
 
-- `decisions/` — every settled question: "how do we render *hesed*", and *why*,
-  with the charter clause that justifies it. Append-only.
-- `glossary-<version>.tsv` — term table per version. **Mandatory for the ESV-style
-  version**, whose charter requires concordance; it cannot be honoured from memory.
-- `briefs/` — the stage 1–2 output per pericope, reusable by all three versions.
+- `decisions/LOG.md` — every settled question and *why*, with the charter clause that
+  justifies it. Append-only. **Binding precedent, not notes.**
+- `glossaries/key-terms.tsv` — one table, a column per version. **Mandatory for the
+  ESV-style version**, whose charter requires concordance; it cannot be honoured from
+  memory. Any term ruled once goes in here immediately (0020) — logging the decision is
+  not enough, and letting this drift was a real failure through Luke 1–7.
+- `glossaries/names.tsv` — fixed Danish forms for every person and place, governed by
+  0028. Consult before inventing a spelling.
+- `briefs/` — stage 1–2 output for passages that earn a full brief.
+- `PROGRESS.md` — live chapter count and the notes carried into the next chapter.
 
 ## Danish-specific gap
 

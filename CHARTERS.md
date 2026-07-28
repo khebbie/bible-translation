@@ -40,9 +40,12 @@ formal ◄───────────────────────�
 
 ## Worked contrast — the shape to aim for
 
-Luke 2:7, *kataluma*. ESV keeps "inn" territory and the sentence shape; the NIV
-changed to "guest room" on lexical grounds and says so in its notes; the NLT would
-additionally recast the sentence so a listener gets it on first hearing.
+Luke 2:7, *kataluma*. ESV *English* keeps "inn"; the NIV changed to "guest room" on
+lexical grounds and says so in its notes. **Our three all read "gæsterum"** — decision
+0023, because 0003 binds us to the Greek rather than to ESV English's traditional
+rendering. The versions still differ in *shape*: the ESV-style keeps Luke's sentence,
+the NLT-style recasts it so a listener gets it on first hearing. A useful reminder that
+these versions are modelled on the charters, not cloned from the English texts.
 
 Exodus 4:14, "his heart will be glad when he sees you". ESV keeps the Semitic idiom;
 the NIV explicitly gives "he will be glad to see you"; the NLT does the same and may
@@ -56,20 +59,21 @@ the translation. Where the three English versions differ, it is nearly always
 philosophy — not a different Hebrew or Greek text. Check `sources/STEPBible-Data`
 TAGNT/TAHOT before attributing any difference to a variant.
 
-## Danish-specific: what the charters do *not* settle
+## Danish-specific: settled, not open
 
-The English charters answer English problems. These need deciding for Danish before
-translating, and the answer may differ per version:
+These were open when the charters were first distilled. All are now decided — see
+`decisions/LOG.md`, which governs. Kept here as a map, not as a source of truth.
 
-1. **Register and the 1992 Bible.** How close does each version sit to the
-   Danish authorized tradition? (ESV-style: close. NLT-style: deliberately not.)
-2. **Units.** NLT-style converts — to **metric**, not to the NLT's American units.
-3. ***De/du***. Danish must choose a second-person register the English charters
-   never had to address. Modern Danish *du* throughout is the obvious default, but it
-   is a real decision, especially for prayer and address to God.
-4. **Compounding.** Danish compounds where English needs a phrase — this affects the
-   ESV-style concordance rule most.
-5. **V2 word order.** Forces reordering English does not. Transparency for the
-   ESV-style version means structure and force, not word sequence.
-6. **YHWH.** HERREN in small caps across all three; but *YHWH tseba'oth* splits —
-   "Sebaot" (ESV-style) vs. translating the meaning, "Himlens hære" (NLT-style).
+| Question | Ruling | Decision |
+|---|---|---|
+| Register against the 1992 Danish Bible | ESV-style close to the tradition; NIV-style contemporary but dignified; NLT-style deliberately independent | 0016 |
+| Units, currency, dates | ESV keeps ancient + footnote; NIV mixed; NLT converts, to **metric** | 0017, 0046 |
+| *De* / *du* | **du** throughout, including address to God | 0015 |
+| YHWH | `\nd HERREN\nd*` in all three; also in NT quotations of OT passages with YHWH | 0005, 0033 |
+| *YHWH tseba'oth* | ESV/NIV "Hærskarers HERRE"; NLT translates the meaning | 0018 |
+| Proper names | OT figures take Danish OT forms; Gospel-only names transliterated | 0028 |
+
+Compounding and V2 word order remain standing *craft* constraints rather than open
+questions: Danish compounds where English needs a phrase (which bites the ESV-style
+concordance rule), and V2 forces reordering English does not — transparency for the
+ESV-style means structure and force, never word sequence.

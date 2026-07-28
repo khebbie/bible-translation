@@ -5,8 +5,13 @@
 | Luke | 7 / 24 | ✅ ch. 1–7 | ✅ ch. 1–7 | ✅ ch. 1–7 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 8 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
-order.
+**Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
+chapters exist as `bd` issues under four epics (MAT `bible-1x3`, MRK `bible-bxe`,
+LUK `bible-ycn`, JHN `bible-4m1`), chained sequentially. This table is a human-readable
+mirror — beads is the source of truth for *what is left*; this file holds the
+*notes carried forward*.
+
+Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 
 ## Notes carried forward
 

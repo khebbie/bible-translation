@@ -25,7 +25,7 @@ bible/
 │                        + .checks.md — back-translation findings
 ├── PROGRESS.md        live chapter count + notes carried forward
 ├── decisions/LOG.md   append-only precedent; READ BEFORE TRANSLATING
-├── glossaries/        key-terms.tsv — term table across all three versions
+├── glossaries/        key-terms.tsv (terms) + names.tsv (people & places)
 ├── esv/  charter/     essentially literal    — METHOD.md + official preface
 │      translation/  Danish USFM output
 ├── niv/  charter/     mediating / balanced   — METHOD.md + preface + CBT notes
@@ -45,11 +45,21 @@ from the publishers' own pages, `.html`/`.pdf`/`.txt` raw originals) plus a
 
 ## Before translating anything
 
-1. Read `decisions/LOG.md` — it is binding precedent, not notes.
-2. Read the relevant `charter/METHOD.md`, and `CHARTERS.md` to see what that version
+1. `bd ready` — the next chapter to translate. Claim it with `bd update <id> --claim`.
+2. Read `decisions/LOG.md` — it is binding precedent, not notes.
+3. Read `glossaries/key-terms.tsv` and `glossaries/names.tsv` — these are the working
+   memory. **Never invent a rendering for a term or a name that is already in them**,
+   and add any new ruling immediately (0020). Logging the decision is not enough;
+   letting the glossary drift behind the log was a real failure through Luke 1–7.
+4. Read `PROGRESS.md` for the notes carried forward into this chapter.
+5. Read the relevant `charter/METHOD.md`, and `CHARTERS.md` to see what that version
    must *not* sound like. The three have to be recognisably different from each
    other; that difference comes from the charters, not from taste.
-3. Follow `WORKFLOW.md`: brief first (shared), then render three ways, then check.
+6. Follow `WORKFLOW.md`. At book scale, full written briefs are only for passages that
+   earn one (0020) — the glossary and precedent carry routine narrative.
+
+When the chapter is done and validated: update `PROGRESS.md`, log new decisions, add
+new terms to the glossaries, then `bd close <id>`.
 
 **Translate the Greek/Hebrew, not the English version.** Decision 0003 — where the
 ESV/NIV/NLT made an interpretive expansion, do not copy it just because it is in the
