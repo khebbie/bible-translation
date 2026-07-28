@@ -705,3 +705,20 @@ it belongs, in the footnote.
 "retfærdiggjort", NIV-style "gjort retfærdig", NLT-style "erklæret retfærdig". Noted
 here only because it is the first time the Romans vocabulary recurs inside Luke — the
 glossary is doing its job, and no re-decision is needed.
+
+### 0077 — μνᾶ (Luke 19:13-25)
+**2026-07-28 · all · settled** (extends 0046/0062)
+ESV-style **"pund"** with a footnote (a mina was about a hundred days' wages);
+NIV-style **"pund"** with the same note; NLT-style **"tre måneders løn"** per mina,
+footnoting the literal.
+*Rationale:* "pund" is the received Danish rendering and keeps the ten/five/one
+arithmetic clean, which the parable needs. The NLT-style conversion has to stay a unit
+that can be multiplied — hence a wage period, not a modern currency figure.
+
+### 0078 — Luke 19:38 and 19:46 are OT quotations
+**2026-07-28 · all · settled**
+19:38 quotes Ps 118:26 (as at 13:35), so `\nd HERREN\nd*` applies per 0033. Note that
+Luke alone inserts **ὁ βασιλεύς** into the acclamation — "Velsignet være kongen, som
+kommer" — keep it in all three; it is his point.
+19:46 conflates Isa 56:7 with Jer 7:11. Footnote both references; do not smooth the
+seam.
