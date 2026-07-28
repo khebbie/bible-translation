@@ -722,3 +722,14 @@ Luke alone inserts **ὁ βασιλεύς** into the acclamation — "Velsignet 
 kommer" — keep it in all three; it is his point.
 19:46 conflates Isa 56:7 with Jer 7:11. Footnote both references; do not smooth the
 seam.
+
+### 0079 — The double κύριος of Ps 110:1 (Luke 20:42)
+**2026-07-28 · all · settled**
+Render **"\nd HERREN\nd* sagde til min herre"**. The first κύριος translates **YHWH**
+and takes the divine-name marker per 0033; the second translates *adonai* and is
+ordinary "herre" (lower case).
+*Rationale:* the whole argument of 20:41–44 turns on there being **two** figures in the
+verse — David calls someone other than YHWH "my lord". Rendering both alike destroys
+the point in any translation philosophy, which makes this a 0007-type case: protect the
+argument first. The typographic distinction does the work no wording can.
+Applies wherever Ps 110:1 is quoted (Matt 22:44; Mark 12:36; Acts 2:34; Heb 1:13).
