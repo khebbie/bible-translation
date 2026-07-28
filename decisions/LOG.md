@@ -288,3 +288,46 @@ ESV-style: **"Kristus"** throughout (its charter mandates flat consistency).
 NIV-style: "Kristus", with "Messias" where the Jewish frame is explicit.
 NLT-style: **"Messias"** wherever the audience in view is Jewish — which in Luke 1–2 is
 everywhere (shepherds, Simeon, Anna) — per its charter's explicit rule.
+
+### 0028 — Transliteration of proper names
+**2026-07-28 · all · settled**
+**Old Testament figures and places take their established Danish Old Testament form**,
+not a transliteration of the Greek. So Ἠσαΐας → **Esajas** (not Isaias); Βόος →
+**Boaz**; Ἰωβήδ → **Obed**; Ναασσών → **Nakshon**; Ἀμιναδάβ → **Amminadab**; Ἑσρώμ →
+**Hesron**; Φαρές → **Peres**; Θάρα → **Tera**; Ἀρφαξάδ → **Arpakshad**; Νῶε → **Noa**;
+Μαθουσαλά → **Metusalem**; Ἑνώχ → **Enok**; Σαλαθιήλ → **Shealtiel**; Ζοροβαβέλ →
+**Zerubbabel**.
+*Rationale:* the ESV charter requires that OT material quoted in the NT be rendered so
+the correspondence is visible — and a genealogy is a chain of OT citations. Luke's
+Greek spellings are themselves LXX transliterations; reproducing them would sever the
+link for a Danish reader who knows these names from the Old Testament. 0002 makes this
+binding on all three versions.
+
+**Names occurring only in Luke's genealogy** (Melki, Jannaj, Josek, Joda, Joanan, Resa,
+Maat, Semein, Naggaj, Esli, Elmadam, Kosam, Addi, Jorim, Jonam, Eljakim, Melea, Menna,
+Mattata, Admin, Arni…) are transliterated into Danish orthography from the Greek: χ→k,
+θ→t, φ→f, ου→u, final -ς dropped.
+
+**Contemporary first-century names** keep the Danish New Testament form already fixed in
+Luke 1–2: Zakarias, Elisabet, Josef, Maria, Johannes, Kajfas, Annas, Pontius Pilatus.
+
+This policy governs Matthew's genealogy when we reach it. Do not re-decide it there.
+
+### 0029 — Luke 3:19 "his brother's wife"
+**2026-07-28 · all · settled**
+Follow NA/UBS and omit "Philip"; the TR names him. Footnote once. (Mark 6:17 has the
+name; Luke's critical text does not.)
+
+### 0030 — Luke 3:22 the voice at the baptism
+**2026-07-28 · all · settled**
+Follow NA/UBS: "Du er min elskede søn; i dig har jeg fundet velbehag." The Western
+reading of Codex Bezae — "i dag har jeg født dig" (Ps 2,7) — is famous but stands
+outside the critical text and outside the KJV tradition, so 0004 does not require a
+note. Not footnoted, to keep the apparatus for variants that actually bear on the text
+we follow.
+
+### 0031 — τετραάρχης
+**2026-07-28 · all · settled**
+ESV-style and NIV-style: **"landsfyrste"** (the established Danish term).
+NLT-style: describe the office — "regerede over…" — per its charter's rule on
+institutions that have no modern counterpart.

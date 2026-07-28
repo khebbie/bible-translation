@@ -2,22 +2,26 @@
 
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
-| Luke | 2 / 24 | ✅ ch. 1–2 | ✅ ch. 1–2 | ✅ ch. 1–2 |
+| Luke | 3 / 24 | ✅ ch. 1–3 | ✅ ch. 1–3 | ✅ ch. 1–3 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 
-**Next:** Luke 3 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
+**Next:** Luke 4 onward. Files are `<version>/translation/LUK.usfm`; append chapters in
 order.
 
-## Notes carried forward into Luke 2+
+## Notes carried forward
 
 - Register is now set by Luke 1 and must hold: ESV-style keeps the Septuagintal
   καί-chains ("Og det skete…"); NIV-style keeps the cadence audible but breaks
   sentences; NLT-style is plain modern Danish. See decision 0021.
-- Luke 3 opens with the six-fold political synchronism (3:1–2), then John's preaching,
-  then the genealogy (3:23–38) — which needs a fixed transliteration policy for ~75
-  Hebrew names. Set that policy once and record it; it governs Matthew later too.
-- Luke 3:22 has a real variant worth checking: some witnesses read "today I have
-  begotten you" (Ps 2:7) at the baptism.
+- **Name policy is fixed — decision 0028.** OT figures take their Danish OT form
+  (Esajas, Boaz, Obed, Nakshon, Amminadab, Hesron, Peres, Tera, Arpakshad, Noa,
+  Metusalem, Enok, Shealtiel, Zerubbabel); Luke-only genealogy names are transliterated
+  (Melki, Jannaj, Josek, Joda, Joanan, Resa, Maat, Semein, Naggaj, Esli, Elmadam,
+  Kosam, Addi, Jorim, Jonam, Eljakim, Melea, Menna, Mattata, Admin, Arni). This governs
+  Matthew's genealogy too — do not re-decide it there.
+- Luke 4 has the temptation (OT quotations from Deut — check whether Luke follows LXX,
+  and use `\nd HERREN\nd*` where the quotation renders YHWH, per 0005) and the Nazareth
+  sermon quoting Isa 61, where Luke's citation diverges from both MT and LXX.
 - κύριος in Luke 1 is regular "Herren", not `\nd`. `\nd HERREN\nd*` is reserved for
   YHWH in the Hebrew text and for explicit OT quotation in the NT (decision 0005).
 - Recurring names fixed in Luke 1: Zakarias, Elisabet, Maria, Josef, Theofilus,
