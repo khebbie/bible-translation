@@ -46,6 +46,28 @@ No USFM validator is installed yet. Before the corpus grows, add one — the Pyt
 `usfm-grammar` / `pythonbible` route or Paratext itself. Until then, treat the files
 as hand-checked, not verified.
 
+## Getting it onto a phone
+
+**Scripture App Builder** (SIL, free) reads USFM **directly** and builds a branded
+Android APK — no conversion step. It is the standard route for translation projects and
+the reason 0001 chose USFM over a hand-rolled JSON schema.
+
+Our markup already lines up with what it renders: `\s1` becomes navigable headings,
+`\f` becomes tappable footnote popups, `\q1`/`\q2` render as indented poetry, `\nd`
+renders HERREN in small caps. It can build one app per version, or a single app carrying
+all three as parallel texts with side-by-side comparison — the latter is the interesting
+option here, since the contrast between the three *is* the project.
+
+`https://software.sil.org/scriptureappbuilder/`
+
+**And Bible (AndBible)** is the alternative, but it consumes SWORD modules, so it needs
+USFM → OSIS (`usfm2osis.py`) → SWORD (`osis2mod`). More steps, more places to lose
+footnote and poetry markup. Only worth it to sit alongside other modules in one library.
+
+**Before any public release**, re-read the SBLGNT EULA and the STEPBible terms (see
+`README.md`). The USFM contains only Danish and no source text, so this is very likely
+fine — but it should be a deliberate check, not an afterthought.
+
 ## What we do not do
 
 Do not hand-write JSON, or invent a schema. If an app needs JSON, generate it from

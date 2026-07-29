@@ -838,3 +838,12 @@ stands and footnote the difference once per Gospel. Do not harmonise.
 different lists in different books, not a discrepancy to be resolved. "Kananæer" is
 Aramaic for "zealot", so the Simon entries are the same person under two labels; that
 belongs in the note.
+
+### 0089 — Mark 4:39: Jesus muzzles the sea
+**2026-07-28 · all · settled**
+φιμώθητι at 1:25 (to the unclean spirit) and πεφίμωσο at 4:39 (to the sea) are the same
+verb. The ESV-style must use **the same Danish words in both places** — "Ti stille!" —
+so the reader sees that Jesus addresses the storm exactly as he addresses a demon. That
+is Mark's point, and it is the kind of recurrence its charter's concordance rule exists
+for. NIV- and NLT-style may vary the wording but must not lose the parallel; footnote it
+at 4:39.
