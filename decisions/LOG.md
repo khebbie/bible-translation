@@ -895,3 +895,20 @@ Where Matthew and Luke allow "except the sign of Jonah", **Mark's refusal is abs
 parallels in any version. The Greek is a Hebraic oath-formula (εἰ δοθήσεται — literally
 "if a sign shall be given…"), which is why it reads so abruptly; footnote that in the
 ESV-style.
+
+### 0095 — λύτρον ἀντὶ πολλῶν (Mark 10:45)
+**2026-07-28 · all · settled**
+ESV-style **"en løsesum for mange"**; NIV-style the same; NLT-style **"betale prisen for
+at sætte mange fri"**, footnoting the literal.
+*Rationale:* λύτρον is the ransom paid to free a slave or captive, and ἀντί means *in
+place of*. The ESV charter's rule on retaining theological terminology applies — this is
+one of the two sayings in Mark that state the purpose of the cross, and "løsesum" is the
+received Danish word. The NLT-style unpacks the metaphor but must not lose the idea of a
+price paid instead of someone else.
+
+### 0096 — Ραββουνι (Mark 10:51)
+**2026-07-28 · all · settled**
+Keep the transliterated **"Rabbuni"** in all three, footnoting that it is an intensified
+Aramaic form of *rabbi* — roughly "min mester". Mark does not gloss this one himself, so
+unlike 0090 the note carries the meaning; but the word stays, because Bartimæus'
+unusual address is part of what Mark records.
