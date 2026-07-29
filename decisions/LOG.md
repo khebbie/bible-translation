@@ -912,3 +912,19 @@ Keep the transliterated **"Rabbuni"** in all three, footnoting that it is an int
 Aramaic form of *rabbi* — roughly "min mester". Mark does not gloss this one himself, so
 unlike 0090 the note carries the meaning; but the word stays, because Bartimæus'
 unusual address is part of what Mark records.
+
+### 0097 — Mark 11:17 keeps "for alle folkeslag"
+**2026-07-28 · all · settled**
+Mark alone completes the Isa 56:7 quotation with **πᾶσιν τοῖς ἔθνεσιν** — "et bedehus
+**for alle folkeslag**" — where Luke 19:46 stops short. Keep it in all three and footnote
+that Mark alone has it.
+*Rationale:* the clause is the point of the scene in Mark's telling: the traders were
+occupying the court of the Gentiles, the one place non-Jews could pray. Dropping it, or
+harmonising toward Luke, removes Mark's reason for including the incident where he does.
+
+### 0098 — ὡσαννά
+**2026-07-28 · all · settled**
+Keep **"Hosanna"** untranslated in all three, footnoting it at first occurrence as a
+Hebrew cry meaning "frels dog!" which had become a shout of praise. All three English
+versions do the same, and Danish liturgical usage has long since absorbed the word.
+Consistent with 0090 and 0096: the foreign word stays, the meaning goes in the note.
