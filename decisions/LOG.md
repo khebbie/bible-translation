@@ -860,3 +860,19 @@ deletes an authorial act, not a translation obstacle. The NLT charter's gate tes
 about clarity, and Mark has already supplied the clarity himself.
 Danish spelling follows the received forms: **talitha kumi**, **effata**, **eloi, eloi,
 lama sabaktani**.
+
+### 0091 — Mark 7:19b, the narrator's aside
+**2026-07-28 · all · settled**
+καθαρίζων πάντα τὰ βρώματα is a **nominative participle** agreeing with the subject of
+v18 — that is, it is **Mark's own comment on Jesus' words**, not part of the saying:
+"Dermed erklærede han al mad for ren."
+Set it off in all three versions (dash or new sentence) so the reader can see it is the
+narrator speaking, and footnote that the Greek construction is what makes this an
+editorial remark. Mark does the same kind of thing at 7:3–4, explaining Jewish custom to
+readers who do not know it.
+
+### 0092 — κορβᾶν (Mark 7:11)
+**2026-07-28 · all · settled**
+Keep the transliterated **"korban"** with Mark's own gloss ("det vil sige: en gave til
+Gud") in all three, per **0090**. Mark supplies the translation himself; the foreign word
+is part of what he is showing the reader.
