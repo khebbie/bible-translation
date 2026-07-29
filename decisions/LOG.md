@@ -847,3 +847,16 @@ so the reader sees that Jesus addresses the storm exactly as he addresses a demo
 is Mark's point, and it is the kind of recurrence its charter's concordance rule exists
 for. NIV- and NLT-style may vary the wording but must not lose the parallel; footnote it
 at 4:39.
+
+### 0090 — Mark's Aramaic
+**2026-07-28 · all · settled**
+Mark three times preserves Jesus' Aramaic and then translates it himself: **ταλιθα κουμ**
+(5:41), **εφφαθα** (7:34), **ελωι ελωι λεμα σαβαχθανι** (15:34).
+**Keep the Aramaic transliterated in all three versions, followed by Mark's own gloss.**
+Do not drop it — not even in the NLT-style.
+*Rationale:* the gloss is Mark's, not ours; he put the foreign words there on purpose and
+then explained them, which means the reader is *meant* to hear them. Removing them
+deletes an authorial act, not a translation obstacle. The NLT charter's gate test is
+about clarity, and Mark has already supplied the clarity himself.
+Danish spelling follows the received forms: **talitha kumi**, **effata**, **eloi, eloi,
+lama sabaktani**.
