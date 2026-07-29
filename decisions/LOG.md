@@ -876,3 +876,22 @@ readers who do not know it.
 Keep the transliterated **"korban"** with Mark's own gloss ("det vil sige: en gave til
 Gud") in all three, per **0090**. Mark supplies the translation himself; the foreign word
 is part of what he is showing the reader.
+
+### 0093 — κόφινος vs σπυρίς (Mark 6:43; 8:8, 19-20)
+**2026-07-28 · all · settled**
+Mark uses **two different words** for the baskets in the two feedings, and at 8:19–20
+Jesus makes the contrast explicit — twelve *kophinoi* after the five thousand, seven
+*spyrides* after the four thousand. **All three versions must use two different Danish
+words**, or the questioning in 8:19–20 collapses into a pointless repetition.
+Fixed: κόφινος = **"kurv"**, σπυρίς = **"kurv"** is *not* acceptable; use
+κόφινος = "kurv" and σπυρίς = **"stor kurv"** (ESV-/NIV-style) or "foderkurv" /
+"stor kurv" (NLT-style). A σπυρίς was large enough to hold a man (Acts 9:25);
+footnote that at 8:8.
+
+### 0094 — Mark 8:12 has no Jonah exception
+**2026-07-28 · all · settled**
+Where Matthew and Luke allow "except the sign of Jonah", **Mark's refusal is absolute**:
+"der skal aldrig gives denne slægt et tegn." Do not import the exception from the
+parallels in any version. The Greek is a Hebraic oath-formula (εἰ δοθήσεται — literally
+"if a sign shall be given…"), which is why it reads so abruptly; footnote that in the
+ESV-style.
