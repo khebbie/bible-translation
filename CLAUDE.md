@@ -12,8 +12,14 @@ differ from each other, and `WORKFLOW.md` for the roles and the per-pericope pip
 Sources, charters and workflow are **done**. **Luke is complete** in all three versions
 (1,149 verses each), plus Romans 3:21–26 as the original scaffolding pericope. See
 `PROGRESS.md` for the live count and `decisions/LOG.md` for the 82 binding rulings.
-`tools/check_usfm.py` validates output after every chapter. The repo is git-tracked on
-`main` with a GitHub remote; one commit per chapter.
+**Two checkers, and they answer different questions.** `tools/check_usfm.py` answers *is
+the file well-formed* — verses, markers, cross-version agreement.
+`tools/audit_translation.py` answers *did the Danish carry what the Greek marked* —
+concordance against the glossary, source-side features Danish drops silently, asymmetry
+between the three versions. **Run both after every chapter.** See decision 0113 for what
+the audit can and cannot be trusted to do; a clean run means nothing was dropped
+*silently*, not that the rendering is right. The repo is git-tracked on `main` with a
+GitHub remote; one commit per chapter.
 
 ```
 bible/
@@ -52,6 +58,11 @@ from the publishers' own pages, `.html`/`.pdf`/`.txt` raw originals) plus a
    memory. **Never invent a rendering for a term or a name that is already in them**,
    and add any new ruling immediately (0020). Logging the decision is not enough;
    letting the glossary drift behind the log was a real failure through Luke 1–7.
+   `key-terms.tsv` is a **specification**, not notes: the `scope` column says whether a
+   row is `konkordant` (binding every occurrence — a missing rendering is a failure) or
+   `standard` (the usual rendering, departure is normal). Narrow a `konkordant` rule to
+   the version and book it actually binds (`konkordant:esv@HEB`) — a rule made in one
+   book over-generalises, which is how 0104 fired on ordinary motion in Mark. See 0113.
 4. Read `PROGRESS.md` for the notes carried forward into this chapter.
 5. Read the relevant `charter/METHOD.md`, and `CHARTERS.md` to see what that version
    must *not* sound like. The three have to be recognisably different from each
@@ -59,8 +70,19 @@ from the publishers' own pages, `.html`/`.pdf`/`.txt` raw originals) plus a
 6. Follow `WORKFLOW.md`. At book scale, full written briefs are only for passages that
    earn one (0020) — the glossary and precedent carry routine narrative.
 
-When the chapter is done and validated: update `PROGRESS.md`, log new decisions, add
-new terms to the glossaries, then `bd close <id>`.
+When the chapter is done: run **both** checkers —
+
+```bash
+python3 tools/check_usfm.py                          # well-formed?
+python3 tools/audit_translation.py <BOOK>            # did the Danish carry the Greek?
+```
+
+Work the audit's `features` queue before calling the chapter done: each flagged perfect,
+present participle and genuine middle is a question that must be *answered*, not skipped.
+Skipping one is how Heb 10:26 lost its aspect. Any departure from a `konkordant` rule must
+be either fixed or declared in `glossaries/concordance-exceptions.tsv` **with a decision
+number** — never left silent. Then update `PROGRESS.md`, log new decisions, add new terms
+to the glossaries, and `bd close <id>`.
 
 **Translate the Greek/Hebrew, not the English version.** Decision 0003 — where the
 ESV/NIV/NLT made an interpretive expansion, do not copy it just because it is in the

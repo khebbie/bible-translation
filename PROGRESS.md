@@ -5,6 +5,7 @@
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | 12 / 16 | ✅ ch. 1–12 | ✅ ch. 1–12 | ✅ ch. 1–12 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
+| Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
 **Task tracking is in beads.** `bd ready` returns the next chapter. All 89 Gospel
 chapters exist as `bd` issues under four epics (MAT `bible-1x3`, MRK `bible-bxe`,
@@ -71,6 +72,26 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   Luke**, or the charter is not being applied.
 - **NA28 governs over SBLGNT** where they diverge (0083); TAGNT settles it. First hit was
   Mark 1:41 (compassion, not anger) and 1:1 ("Guds Søn" kept).
+
+## Hebrews 10 — out of sequence
+
+Translated on request 2026-07-30, while Mark 13 was still open and before any of
+Hebrews 1–9 exists. Files are `<version>/translation/HEB-10.usfm` (chapter-level draft
+per `FORMAT.md`) and must be **merged into `HEB.usfm`** when the book is done properly.
+
+- Shared brief: `briefs/heb-10.md`. Decisions **0101–0110**.
+- **0101 is the load-bearing one:** προσφορά = "offergave" concordantly at 10:5.8.10.14.18.
+  If that chain breaks, the argument of vv1–18 breaks. Same for τελειόω (1, 14) and
+  ἁγιάζω (10, 14, 29) — and do not level ἁγιάζω's perfect/present.
+- **0103 is a standing rule for the whole book:** where Hebrews' argument rests on a
+  Greek Old Testament reading the Masoretic Text does not support (10:5 "a body" against
+  the Hebrew "ears"), translate what Hebrews wrote and footnote the Hebrew. This will
+  recur constantly in Hebrews — it is the book's method.
+- **0105** fixes ἀδελφοί for all the epistles: ESV-style "brødre" + a first-occurrence
+  footnote per book; the other two "brødre og søstre".
+- `tools/check_usfm.py` now carries the full HEB verse counts (13 chapters).
+- Still untranslated in Hebrews: everything except chapter 10. No `bd` epic exists for
+  it; the Gospels remain the planned sequence.
 
 ## Standing debt
 

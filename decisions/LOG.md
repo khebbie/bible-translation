@@ -928,3 +928,299 @@ Keep **"Hosanna"** untranslated in all three, footnoting it at first occurrence 
 Hebrew cry meaning "frels dog!" which had become a shout of praise. All three English
 versions do the same, and Danish liturgical usage has long since absorbed the word.
 Consistent with 0090 and 0096: the foreign word stays, the meaning goes in the note.
+
+### 0099 — Mark 13:14 "den, som læser dette, må forstå det"
+**2026-07-28 · all · settled**
+Keep the aside in the text in all three, set off with dashes. It is **Mark addressing
+his reader directly** — one of only a handful of places in the Gospels where the narrator
+steps out and speaks to whoever is holding the scroll. Footnote that the phrase points
+back to Dan 9:27; 11:31; 12:11. Do not move it into a footnote or smooth it into Jesus'
+speech: whose voice it is *is* the interesting thing about it.
+
+### 0100 — Mark 13:32 "end ikke Sønnen"
+**2026-07-28 · all · settled**
+Render plainly in all three: "…ikke engang englene i himlen, **ikke engang Sønnen** —
+kun Faderen." Do not soften, qualify, or footnote it into harmlessness.
+*Rationale:* this is the clearest test of 0013's second clause — conservative
+bibliology, **not** confessional retrojection. Later doctrinal formulation about the two
+natures is not the text's own level of precision, and importing it here would be exactly
+the sharpening 0013 forbids. Translate what Mark wrote and leave the difficulty with the
+reader, where he left it.
+
+---
+
+## Hebrews
+
+> Hebrews 10 was translated on request, out of sequence, while Mark was in progress
+> and before any of Hebrews 1–9 exists. The rulings below are binding (0020); what is
+> provisional is only that Hebrews 1–9 may later supply an *earlier* first occurrence
+> of a term ruled here. Shared brief: `briefs/heb-10.md`.
+
+### 0101 — Hebrews' offering vocabulary: two chains that must stay visible
+**2026-07-30 · all · settled**
+The argument of Heb 10:1–18 is carried by two words recurring against each other, and a
+version that loses the recurrence loses the argument whatever its philosophy — a
+**0007** case.
+
+- **προσφορά** (10:5, 8, 10, 14, 18) is the chain that must not break: the offerings God
+  did *not* want (5, 8) are replaced by the one offering of Christ's body (10, 14),
+  which is why no offering remains (18). ESV-style and NIV-style: **"offergave"** at all
+  five. NLT-style may vary the wording but must keep the link audible.
+- **θυσία** (10:1, 5, 8, 11, 12, 26): **"offer"** in the discourse (1, 11, 12, 26), but
+  **"slagtoffer"** inside the Psalm quotation (5, 8), where it renders Hebrew *zevach*
+  and the received Danish wording of Ps 40:7 is fixed. Footnoted at 10:5.
+- **περὶ ἁμαρτίας** (10:6, 8) is the Greek Old Testament's fixed phrase for the **sin
+  offering**, standing as a noun beside ὁλοκαυτώματα: render **"syndoffer"**. At 10:18
+  and 10:26 the same preposition is ordinary and becomes "for synd".
+- **τελειόω** (10:1, 14) = **"gøre fuldkommen"** in all three. What the law could never
+  do is what the one offering did.
+- **ἁγιάζω** (10:10, 14, 29): ESV-style **"hellige"**; NIV- and NLT-style **"gøre
+  hellig"** — the NLT charter bans *helliggørelse* and names this as its Danish route.
+  **Do not level the tenses**: perfect at v10 (accomplished), present at v14 (ongoing).
+*Rationale:* the ESV charter's concordance rule applies "to the extent that plain Danish
+permits", and here plain Danish permits it on προσφορά, which is where the argument
+lands. The θυσία split follows **0044**: concordance yields where it would distort, and
+0016 tells the ESV-style not to differ from the received Psalm wording without cause.
+
+### 0102 — εἰς τὸ διηνεκές: one Greek phrase, two Danish words
+**2026-07-30 · all · settled**
+The phrase occurs three times in Heb 10 in two senses: endless **repetition** at 10:1
+(what they keep offering) against permanent **validity** at 10:12 and 10:14 (what he
+offered once).
+- ESV-style: **"uden ophør"** at 10:1, **"for bestandig"** at 10:12 and 10:14, with a
+  footnote at 10:1 saying it is the same Greek phrase.
+- NIV-style: "igen og igen" / "for altid". NLT-style: free.
+*Rationale:* the same reasoning as **0044**. No single Danish word carries both senses,
+and the ESV English breaks concordance here too ("continually" / "for all time"). The
+footnote does the work concordance cannot, per 0014.
+*Recurs at* 7:3.
+
+### 0103 — Heb 10:5 follows the Greek Old Testament against the Hebrew
+**2026-07-30 · all · settled**
+Ps 40:7 in Hebrew reads **"ears you have dug for me"** (אָזְנַיִם כָּרִיתָ לִּי,
+`Ps.40.7`); Hebrews reads **σῶμα δὲ κατηρτίσω μοι**, "a body you prepared for me", and
+then builds 10:10 and 10:14 on the word *body*.
+**Translate Hebrews' Greek as it stands, and footnote the Hebrew in all three.**
+*Rationale:* **0003 cuts both ways** — we do not correct the author toward the Hebrew any
+more than toward the ESV. The quotation is not decoration; the word *body* is the hinge
+of the paragraph, so emending it would destroy the argument (0007). And this is exactly
+what **0034** was decided for: a reader comparing with a Danish Psalter will otherwise
+think the translation is faulty. The same note carries the lesser divergence in v6
+(Hebrew "you have not *required*", Greek "you did not *delight in*").
+**Standing rule for the whole book:** wherever Hebrews' argument depends on a Greek Old
+Testament reading that the Masoretic Text does not support, translate what Hebrews wrote
+and footnote the Hebrew. Do not harmonise in either direction.
+
+### 0104 — The load-bearing repetitions in Hebrews 10
+**2026-07-30 · all · settled**
+Four more recurrences in this chapter are structural, not incidental, and all three
+versions must keep each pair visibly linked:
+- **προσέρχομαι** (10:1, 22) — the book's word for approaching God. 10:22 is the answer
+  to 10:1. ESV- and NIV-style **"træde frem"**; NLT-style "gå ind til Gud".
+- **παρρησία** (10:19, 35) — frames the exhortation: the confidence we *have* against the
+  confidence not to *throw away*. **"frimodighed"** in ESV- and NIV-style, "frimodig
+  tillid" in the NLT-style, both times.
+- **τὸ θέλημα τοῦ θεοῦ ποιῆσαι** (10:7, 9, 10, 36) — what Christ came to do is what the
+  readers must do. **Identical Danish wording** ("gøre Guds vilje") at all four, footnoted
+  at 10:36.
+- **ὑποστέλλομαι / ὑποστολή** (10:38, 39) — verb then noun, back to back, and the reason
+  the author reversed the halves of Hab 2:4. Keep one Danish root across both.
+Also **ἥκω** (10:7, 9) and **ἥξει** (10:37): "jeg er kommet" answered by "han kommer".
+*Rationale:* 0007. These are not concordance for its own sake — each pair is an argument
+the reader is meant to complete.
+
+### 0105 — ἀδελφοί outside the Gospels
+**2026-07-30 · all · settled**
+First vocative ἀδελφοί in an epistle (Heb 10:19).
+- **ESV-style: "brødre"**, with a footnote at the first occurrence in each book noting
+  that the Greek word covers brothers and sisters. This is its charter's stated policy
+  verbatim — retain *adelphoi*, footnote where it includes women.
+- **NIV-style and NLT-style: "brødre og søstre"** ("kære brødre og søstre" where the NLT
+  charter's read-aloud rule wants the warmth). Both charters mandate it.
+*Rationale:* charter-fixed on all three sides; recorded so it is not re-decided per letter.
+This is one of the clearest places where the three versions must not converge.
+
+### 0106 — Heb 10:26 is footnoted, not softened
+**2026-07-30 · all · settled**
+ἑκουσίως ἁμαρτανόντων is translated plainly in all three — "synder vi med vilje" — and
+**footnoted with the Torah's own distinction**: sacrifice was provided for inadvertent
+sin (Lev 4) and none for sin committed "with a high hand" (Num 15:30–31). The note states
+that the verse is not saying a Christian who sins is beyond forgiveness, but that someone
+who repudiates the one sacrifice has no other to go to.
+*Rationale:* the most misread passage in the chapter. **0013** forbids blunting the text —
+the warning is genuinely severe and must stay severe — and **0014** exists precisely so
+that the text can stay sharp while the reader is told what it does and does not claim. The
+same handling applies at 6:4–6 when we reach it.
+
+### 0107 — Hab 2:4 at Heb 10:38: "min retfærdige"
+**2026-07-30 · all · settled**
+Read NA28 **ὁ δὲ δίκαιός μου ἐκ πίστεως ζήσεται** — the μου attaches to δίκαιος, so God
+is speaking of **his own** righteous one: ESV-style "Men min retfærdige skal leve af tro."
+Footnote in all three that (a) the Hebrew has "the righteous shall live by **his**
+faithfulness" (בֶּאֱמוּנָתוֹ, `Hab.2.4`), (b) the TR drops μου, and (c) **Paul quotes the
+same half-verse without μου at Rom 1:17 and Gal 3:11**, which is the form Danish readers
+know.
+Also: 10:37–38 is a **composite citation** — Isa 26:20 spliced onto Hab 2:3–4 — and
+Hebrews turns the Greek Old Testament's neuter "it will surely come" (the *vision*) into a
+masculine **"the coming one"**, a person. Translate the messianic reading and footnote the
+composition, per **0034** and **0013**. Hebrews also reverses the two halves of Hab 2:4;
+do not restore the Habakkuk order.
+Set 10:37–38 as poetry (`\q1`/`\q2`) in all three, as with 10:5–7 and 10:16–17.
+
+### 0108 — Textual variants in Hebrews 10
+**2026-07-30 · all · settled** (applies 0004 and 0083)
+Follow NA28 throughout. **Footnoted:**
+- **10:34** τοῖς **δεσμίοις** ("the prisoners"), not the TR's τοῖς δεσμοῖς **μου**
+  ("**my** chains"), and the TR's ἐν οὐρανοῖς ("in heaven") after "a better and abiding
+  possession" is omitted. Both go in one note. The TR reading matters beyond its wording:
+  it is what made the verse read as Paul's, and it is what the KJV stream has.
+- **10:17** the critical text has no verb of speaking, so the sentence begun at 10:15 never
+  reaches its main clause; the TR supplies "then he adds". Footnote the anacoluthon and
+  the addition — otherwise the Danish looks broken.
+- **10:30** the TR adds λέγει κύριος to "Vengeance is mine"; folded into the quotation note,
+  which also records that Hebrews' wording follows the Hebrew and matches Rom 12:19 rather
+  than the Greek Old Testament of Deut 32:35.
+- **10:38** μου, per 0107.
+**Not footnoted** (trivial per 0035): 10:1 δύναται/δύνανται (whether *the law* or *the
+sacrifices* cannot perfect — the sense barely moves); 10:2 κεκαθαρισμένους; 10:8 the plural
+θυσίας καὶ προσφοράς against v5's singular, which is the author's own variation and is kept;
+10:9 the TR's added ὁ θεός; 10:12 οὗτος/αὐτός; 10:15 εἰρηκέναι/προειρηκέναι; 10:16 singular
+διάνοιαν.
+
+### 0109 — Hebrews' sanctuary vocabulary
+**2026-07-30 · all · settled**
+- **τὰ ἅγια** (10:19) — ESV- and NIV-style **"helligdommen"**, NLT-style **"Det
+  Allerhelligste"**; all three footnote the literal "det hellige" and that Hebrews means
+  the inner room. The NLT charter's gate test is met: "det hellige" reads as an adjective
+  in Danish, not a place.
+- **ἱερεὺς μέγας** (10:21) is **not** ἀρχιερεύς. Render **"en stor præst"** in all three so
+  the author's variation shows; "ypperstepræst" stays reserved for ἀρχιερεύς.
+- **σῶμα** (10:5, 10, 22) and **σάρξ** (10:20) are not interchangeable, and 10:20 says the
+  way runs through the curtain, "that is, his **flesh**". ESV- and NIV-style **"kød"** at
+  10:20 against "legeme" for σῶμα; the NLT-style uses "krop" for σῶμα and must not thereby
+  erase σάρξ — it renders 10:20 "sin egen krop" only because the NLT register has no
+  workable "kød", and footnotes the construal.
+  *Note against 0003:* the ESV English reads "his body" at 10:20. We do not.
+- **10:20, "gennem forhænget, det vil sige gennem sit kød"** — the traditional construal
+  equates curtain and flesh; **0013** takes it, and the instrumental alternative goes in
+  the footnote per 0014.
+- **10:12, εἰς τὸ διηνεκές** may attach to the offering or to the sitting down. The Danish
+  word order in the ESV-style leaves it open, as the Greek does; NIV- and NLT-style resolve
+  it to the offering with ESV, NIV and NLT. Footnoted once in each version.
+
+### 0110 — χριστός in Hebrews
+**2026-07-30 · nlt · settled** (extends 0027)
+0027 sends the NLT-style to **"Messias"** wherever the audience in view is Jewish, which in
+Hebrews is throughout. But in this letter Χριστός mostly stands in the **name-pair**
+Ἰησοῦς Χριστός (10:10), where "Jesus Messias" would read as a claim being made rather than
+as a name.
+**Ruled:** the NLT-style keeps **"Jesus Kristus"** for the name-pair and uses "Messias" only
+where Χριστός stands alone as a title. Where the subject is *supplied* by the translator and
+the Greek has no name at all — Heb 10:5, where the Greek has only a participle — the
+NLT-style supplies **"Jesus"**, which is clearest aloud and does not force the question.
+ESV-style supplies nothing at 10:5 ("Derfor siger han…"), per **0003**: the ESV English
+supplies "Christ" there and the Greek does not. NIV-style supplies "Kristus".
+*Rationale:* 0027 is about audience, not about breaking up proper names; and the difference
+in what each version supplies at 10:5 is a good illustration of the three charters working
+as intended.
+
+### 0111 — Heb 10:26 carries both ἑκουσίως *and* the present participle
+**2026-07-30 · all · settled** (amends 0106)
+`ἁμαρτανόντων` at 10:26 is a **present** participle in a genitive absolute with ἡμῶν,
+and `ἑκουσίως` is a separate adverb fronted for emphasis. The verse therefore states two
+things, not one: the sin is **deliberate** *and* it is **persisted in**. All three versions
+must render both.
+- ESV-style **corrected**: "For synder vi med vilje…" → **"For bliver vi ved med at synde
+  med vilje…"**, footnoting both the aspect and the older Danish wording.
+- NIV-style ("hvis vi bevidst bliver ved med at synde") and NLT-style ("hvis vi med vilje
+  bliver ved med at synde") already carried both; unchanged.
+
+*Rationale:* the ESV charter's governing rule is transparency to "the structure and exact
+force of the original", and imperfective aspect is part of that force. **0016** pulls the
+other way — the 1931/1992 Danish and the KJV all have the bare punctiliar "synder vi med
+vilje" — but this is not differing from the tradition gratuitously: dropping the aspect
+produces in Danish exactly the misreading that 0106's footnote exists to block, namely
+that a *single* deliberate sin forecloses forgiveness. Better to carry it in the text than
+to repair it in a note. v29's three **aorist** participles (καταπατήσας, ἡγησάμενος,
+ἐνυβρίσας) describe the settled act that the present participle in v26 describes persisting
+in, and the Num 15:30–31 "high hand" background is about defiance, not a lapse.
+
+*On the argument from 1 John 3 (Klaus, 2026-07-30):* the instinct is right, the parallel is
+not. 1 John 3:6, 3:9 have **no adverb** — ἁμαρτάνει, ἁμαρτάνων, ποιεῖ and ἁμαρτάνειν are
+bare presents, so the whole "keeps on sinning / makes a practice of sinning" reading there
+rests on aspect alone, which is why it is genuinely disputed. Heb 10:26 is the *easier*
+case because the author supplied the adverb. **Do not import the 1 John 3 reasoning into
+Hebrews, and do not treat this ruling as settling 1 John 3** — when we reach 1 John, that
+verse gets decided on its own evidence.
+
+*Method note, against 0003:* the warrant here is the Greek participle, not the fact that
+ESV English reads "go on sinning deliberately". That the ESV made the same change to its
+RSV base is confirmation, not the reason.
+
+### 0112 — μαρτυρέω at Heb 10:15 departs from the glossary
+**2026-07-30 · esv · settled**
+The glossary rules μαρτυρέω → ESV-style **"bevidne"** (0019). At Heb 10:15 the Greek is
+μαρτυρεῖ δὲ ἡμῖν — a **dative** complement — and Danish *bevidne* is transitive: it takes
+what is testified, not the person testified to. "Bevidner for os" is not Danish.
+**Ruled:** ESV-style reads **"vidner for os"**, declared in
+`glossaries/concordance-exceptions.tsv` against this decision.
+*Rationale:* concordance yields to grammar, as at 0044. Recorded rather than left silent,
+per 0113.
+
+### 0113 — Machine-checkable rulings, and the limits of that
+**2026-07-30 · all · settled**
+`tools/audit_translation.py` audits the Danish against the Greek: it enforces concordance,
+enumerates source-side features Danish drops silently, and flags asymmetry between the
+three versions. This decision records **what may be mechanised and what may not**, because
+getting that boundary wrong is worse than having no tool.
+
+**The glossary is now a specification, not notes.** `key-terms.tsv` carries a `scope`
+column:
+- **`konkordant`** — binding every occurrence. A missing rendering is a **failure**.
+  Optionally narrowed by version (`konkordant:esv`) and by book
+  (`konkordant@HEB`), because a ruling made in one book is not automatically global.
+- **`standard`** (the default) — the usual rendering. Departing from it is normal and needs
+  no note. This is most rows.
+
+A qualifier in the source column may pin the part of speech (`εὐθύς (adv.)`) so a ruling
+for one sense of an ambiguous lemma is not applied to another.
+
+**Every departure from a `konkordant` rule must be declared** in
+`glossaries/concordance-exceptions.tsv` with a decision number. The tool cannot judge
+whether a break is right; it can guarantee no break happens without someone writing down
+why. That is the whole mechanism.
+
+**What this cannot do, and must not be trusted to do.** Three findings from building it:
+1. **0007's condition is not a predicate.** "Wherever the same root is juxtaposed for
+   effect" is a judgement. δίκαιος and δικαιοσύνη are therefore `standard`, and the root
+   pair at Rom 3:26 is protected by human attention, not by the tool.
+2. **Rulings over-generalise.** 0104's προσέρχομαι link is about Hebrews' cultic "approach
+   God"; applied to Mark it fired on ordinary motion ("kom hen til ham"). Hence `@HEB`.
+   Assume any new concordance ruling is book-local until shown otherwise.
+3. **A clean run means nothing was *silently* dropped — not that the rendering is right.**
+   Exegesis and Danish style are outside its reach entirely. The cold-reader pass remains
+   the only control on those, and is still an unpaid debt.
+
+*What it caught on first run,* in work already reported as finished: six defects in
+Hebrews 10 (NIV-style 10:14 breaking the 0101 προσφορά chain and 10:22 σῶμα → "kroppen";
+NLT-style 10:1 conflating προσέρχομαι with λατρεύω, 10:15 dropping μαρτυρέω, 10:19 missing
+the 0104 παρρησία frame, 10:22 rendering πίστις as "tillid"), a Luke-specific rendering
+recorded as a general rule for ἐπαγγελία, and — in **Luke, declared complete** — a plain
+violation of **0038** at 15:7 and 15:10, where the NLT-style softened ἁμαρτωλός to
+"ét menneske" in the very parable whose point 0038 says depends on the word stinging.
+Both corrected.
+
+### 0114 — δικαιόω is concordant only in the ESV-style
+**2026-07-30 · all · settled** (narrows 0006 for machine-checking)
+0006 fixes a Danish rendering of δικαιόω per version. Auditing Luke showed that only the
+**ESV-style** ruling is genuinely concordant — its charter mandates flat consistency — while
+the NIV- and NLT-style charters both license contextual variation, and Luke uses the verb in
+three distinct senses: God declaring a sinner righteous (18:14), vindicating God or wisdom
+(7:29, 7:35 — already split out by 0044), and **justifying oneself** (10:29; 16:15), which
+0006 never covered.
+**Ruled:** scope `konkordant:esv`; NIV- and NLT-style are `standard`. The glossary now also
+records 0044's "give ret" as an ESV-style alternative, so the audit sees 7:29 as ruled
+rather than as drift.
+*Rationale:* a concordance rule that is really three rules produces false failures, and a
+check that cries wolf stops being read. Per 0113, the honest fix is to narrow the rule to
+where a charter actually demands it, not to loosen the check.

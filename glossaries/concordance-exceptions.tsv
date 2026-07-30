@@ -1,0 +1,14 @@
+# Declared departures from a glossary ruling, one per verse per version.
+#
+# `tools/audit_translation.py --check concordance` fails on any verse where a
+# ruled Danish rendering is absent. Breaking concordance is legal — 0044, 0101
+# and 0102 all do it deliberately — but it may not be *silent*. Every break must
+# be declared here with the decision number that authorises it.
+#
+# That is the whole mechanism: the tool cannot judge whether a break is right,
+# but it can guarantee that no break happens without a human writing down why.
+# An empty `decision` column is not acceptable; log the ruling first.
+#
+# ref is chapter.verse in the book's own versification.
+book	ref	version	lemma	decision	reason
+HEB	10.15	esv	μαρτυρέω	0112	»bevidne« er transitivt på dansk og kan ikke tage μαρτυρεῖ ἡμῖν's dativ; »vidner for os« er den rigtige konstruktion
