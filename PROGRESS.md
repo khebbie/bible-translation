@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Matthew | 6 / 28 | ✅ ch. 1–6 | ✅ ch. 1–6 | ✅ ch. 1–6 |
+| Matthew | 8 / 28 | ✅ ch. 1–8 | ✅ ch. 1–8 | ✅ ch. 1–8 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
@@ -107,6 +107,9 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   on one lemma in one chapter was the signal.
 - **Do not harmonise the baptism voice:** Matthew 3:17 is third person ("Denne er"), Mark 1:11
   and Luke 3:22 second person ("Du er"). Footnoted, not levelled — 0117 territory.
+- **0127 — Matthew doubles.** Two demoniacs (8:28), two blind men (9:27; 20:30), two donkeys
+  (21:2–7), and Gadara where Mark and Luke have Gerasa. **Never reduce to the Markan number**
+  — that is 0117's warning in another key.
 - **0083 bites in Matthew.** At 6:33 SBLGNT and WH omit τοῦ θεοῦ; NA28 has it. Reading the
   SBLGNT file alone would have produced "søg først riget". **Consult TAGNT wherever a phrase
   looks unexpectedly bare** — the SBLGNT file is the vehicle, not the authority.

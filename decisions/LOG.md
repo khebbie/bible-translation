@@ -1459,3 +1459,19 @@ form, and it is the one Danish churchgoers know by heart, so three things needed
 produced "søg først riget". **NA28 has it**, and 0083 makes NA28 the authority over its
 vehicle — so "Guds rige" stands. A live reminder that the SBLGNT file is not by itself
 sufficient, and that TAGNT must be consulted wherever a phrase looks unexpectedly bare.
+
+### 0127 — Matthew's doublets and his Gadarenes
+**2026-07-30 · all · settled** (extends 0088 and 0048)
+At **8:28** Matthew has **two** demoniacs and the region of **Gadara**; Mark 5:1 and Luke 8:26
+have **one** and **Gerasa** (settled at 0048). NA28 reads Γαδαρηνῶν in Matthew and Γερασηνῶν
+in the other two; the TR levels Matthew to Γεργεσηνῶν.
+**Ruled:** follow NA28 in each Gospel and **render each as it stands** — "gadarenernes egn"
+in Matthew, "gerasenernes egn" in Mark and Luke — footnoting the difference once per Gospel.
+Likewise keep Matthew's **two** demoniacs.
+*Rationale:* 0088 already settled the principle on the apostle lists — 0002 requires shared
+*exegesis*, not harmonised *wording*, and these are different books, not a discrepancy for a
+translator to resolve. The footnote tells the reader; the text does not paper over it.
+**Matthew doubles elsewhere too** — two blind men at 9:27 and 20:30 (Mark 10:46 has one),
+two donkeys at 21:2–7. **Do not reduce any of them**, and do not let a remembered Markan
+version supply the number. This is 0117's warning in a different key: the harmonised
+version arrives from memory.
