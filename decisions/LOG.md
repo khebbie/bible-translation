@@ -1415,3 +1415,23 @@ himself switches to "Guds rige" and the switch must be visible. Scope in the glo
 spell it, and this is the same word in two Danish registers. But levelling Matthew's phrase into
 "Guds rige" would erase an authorial choice — the same reasoning as 0036 on Menneskesønnen and
 0093 on the two kinds of basket.
+
+### 0125 — δικαιοσύνη is a Matthean theme and survives in all three
+**2026-07-30 · nlt · settled** (applies 0019; narrows 0114 in practice)
+Matthew uses δικαιοσύνη seven times as a **running theme** — 3:15; 5:6, 5:10, 5:20; 6:1,
+6:33; 21:32 — where Mark uses it not at all and Luke once. It is one of the words the book
+is built on.
+Drafting Matthew 3–5 the NLT-style rendered it four times out of four as "gøre det rette",
+which dissolves the theme completely. **Corrected at 3:15, 5:6, 5:10 and 5:20 to keep the
+Danish root** ("retfærdighed", "leve retfærdigt", "hvad retfærdigheden kræver").
+*Rationale:* **0019** is a gate, not a licence, and its three triggers are that the literal
+rendering be hard to understand, misleading, or archaic. **"Retfærdighed" is none of those
+in Danish** — it is an ordinary word — so the trigger was never met. The NLT charter's
+allowance of a wider range for theological terms is not a licence to delete the term; the
+English NLT itself keeps a noun here. This is the third time the NLT-style has over-reached
+in the same way (Heb 10:22 πίστις, Mark 14:38 πνεῦμα/σάρξ, now this), which makes it a
+pattern rather than an accident.
+*Why the audit could not catch it:* 0114 set δικαιοσύνη to `standard` scope, because 0007's
+condition ("wherever the root is juxtaposed for effect") is not a predicate a script can
+test. So the tool reported it only as an advisory departure. **That advisory count is worth
+reading, not just the failures** — four hits on one lemma in one chapter is a signal.
