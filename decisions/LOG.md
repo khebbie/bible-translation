@@ -1435,3 +1435,27 @@ pattern rather than an accident.
 condition ("wherever the root is juxtaposed for effect") is not a predicate a script can
 test. So the tool reported it only as an advisory departure. **That advisory count is worth
 reading, not just the failures** — four hits on one lemma in one chapter is a signal.
+
+### 0126 — Matthew's Lord's Prayer, and the doxology
+**2026-07-30 · all · settled** (companion to 0059, which settled Luke's shorter form)
+0059 ruled on Luke 11:2–4 and footnoted the clauses Luke lacks. Matthew 6:9–13 is the **full**
+form, and it is the one Danish churchgoers know by heart, so three things needed settling:
+1. **Register.** The **ESV-style uses the received Danish wording** of the Fadervor throughout
+   — "Vor Fader, du som er i himlene! Helliget blive dit navn, komme dit rige, ske din vilje…"
+   0016 tells it to stay with the tradition, and there is no merit in a fresh rendering of
+   words every Dane already knows. The NIV- and NLT-style recast, but must not obscure that
+   this is the Lord's Prayer.
+2. **The doxology at 6:13** — "For dit er riget og magten og æren i evighed. Amen" — is
+   **absent from the critical text** and is a liturgical addition. **Omit from the text and
+   footnote, quoting it in full**, per 0073 and the reasoning of 0059: this is the single most
+   recognisable sentence in Danish devotional life, and silent removal would be very widely
+   noticed. The note says plainly that it is old and well founded in liturgical use, which is
+   true and is not a concession about its textual status.
+3. **6:12 is past tense in Greek** — ἀφήκαμεν, "as we *have* forgiven". The familiar Danish
+   present ("som også vi forlader") follows later manuscripts. Follow NA28 and footnote,
+   because the tense is doing theological work: the petition assumes the forgiving has already
+   happened.
+*Method note:* at **6:33** SBLGNT and WH omit τοῦ θεοῦ, so reading SBLGNT alone would have
+produced "søg først riget". **NA28 has it**, and 0083 makes NA28 the authority over its
+vehicle — so "Guds rige" stands. A live reminder that the SBLGNT file is not by itself
+sufficient, and that TAGNT must be consulted wherever a phrase looks unexpectedly bare.
