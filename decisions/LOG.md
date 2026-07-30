@@ -1322,3 +1322,50 @@ applied to the largest case in the New Testament.
 *Note on the heading as a device:* this is the first time a heading has been used to carry
 textual information rather than a summary of content. It is preferable to brackets and worth
 reusing at John 7:53–8:11 when we reach it.
+
+---
+
+## Matthew
+
+### 0120 — Matthew's genealogy: names, and the two prophets' names among the kings
+**2026-07-30 · all · settled** (applies 0028; resolves a collision with 0004)
+**Names.** 0028 governs and was not re-decided: Old Testament figures take their Danish
+Old Testament form. Verified against the Hebrew — Ἀράμ is **Ram** (רָם, Ruth 4:19;
+1 Chr 2:9–10), footnoted because the Greek reads Aram; Σαλμών is **Salmon**, which is the
+form Ruth 4:21 itself uses (שַׂלְמוֹן) beside שַׂלְמָה in 4:20. The post-exilic names that occur
+only here (Abiud, Azor, Sadok, Akim, Eliud, Mattan) are transliterated per 0028's second
+clause; Eljakim and Shealtiel and Zerubbabel were already fixed by 0028 from Luke.
+
+**Ἀσάφ at 1:7–8 and Ἀμώς at 1:10.** NA28 prints **Ἀσάφ** — the psalmist's name — where the
+king was **Asa**, and **Ἀμώς** — the prophet's — where the king was **Amon**.
+**Ruled:** print **Asa** and **Amon**, and footnote that the best manuscripts spell them
+Asaf and Amos.
+*Rationale, because 0004 and 0028 pull against each other here:* 0004 binds us to the
+critical text on **translation-affecting** variants. This one is not: nobody disputes that
+the men in the list are the kings Asa and Amon, so the two spellings identify the same
+person and the choice is orthographic, which is 0028's territory — and 0028 exists so that
+a Danish reader can see the chain running back into the Old Testament. Printing "Asaf" would
+break that chain and suggest Matthew put a psalmist among the kings. **0013** and all three
+English versions agree. The note keeps the evidence visible per 0014.
+
+**Two further features of the list, footnoted rather than smoothed:** Matthew omits Ahaziah,
+Joash and Amaziah between Joram and Uzziah, and his fourteen-fourteen-fourteen scheme
+(1:17) does not add up if read as a complete register — say so and leave it. And at **1:16**
+the chain breaks: sixteen verses of "N blev far til N" give way to a passive "blev født",
+and Joseph is called Mary's husband, not Jesus' father. That break is the point of the
+genealogy and must be visible in all three versions.
+
+### 0121 — παρθένος at Matthew 1:23
+**2026-07-30 · all · settled** (a second application of 0103)
+Matthew quotes Isa 7:14 in the Greek form, which reads **παρθένος**, "virgin". The Hebrew
+has **עַלְמָה** (*alma*) — a young woman of marriageable age, a word that does not exclude
+virginity but does not state it.
+**Ruled:** render **"jomfruen"** in all three, and footnote the Hebrew in all three, saying
+plainly what *alma* does and does not assert.
+*Rationale:* exactly 0103, which was decided at Heb 10:5 and made a standing rule — where a
+New Testament author's argument rests on the Greek Old Testament, translate what he wrote
+and footnote the Hebrew, harmonising in neither direction. Matthew's whole appeal depends on
+παρθένος, so replacing it with "den unge kvinde" would rewrite his argument; but pretending
+the Hebrew says "virgin" would be the opposite error, and 0014 requires the reader be told.
+The note is deliberately even-handed: it neither concedes the point nor overstates it.
+Ἐμμανουήλ keeps Matthew's own gloss, per 0090.

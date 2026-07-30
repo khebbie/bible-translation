@@ -4,6 +4,7 @@
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
+| Matthew | 1 / 28 | ✅ ch. 1 | ✅ ch. 1 | ✅ ch. 1 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
@@ -84,6 +85,21 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - **The NLT-style over-reaches under pressure** — twice now (Heb 10:22, Mark 14:38) it
   dissolved a contrast the Greek marks, where 0019's gate test was never met. When a verse
   contains a paired abstraction (ånd/kød, tro/tillid), check 0019 before recasting.
+
+## Matthew — notes carried forward
+
+- **0028 governs the genealogy and was not re-decided** (0120). Names verified against the
+  Hebrew: Ram (not Aram), Salmon, Hesron, Amminadab, Nakshon, Boaz, Obed, Isaj.
+- **Asa and Amon at 1:7–8 and 1:10**, though NA28 spells them Asaf and Amos — 0120 rules
+  this orthographic, not textual, and footnotes it. Do not revisit.
+- **0121 — παρθένος at 1:23** applies 0103 to Matthew: translate the Greek Old Testament
+  form the author quotes, footnote the Hebrew *alma*, harmonise in neither direction.
+  Matthew quotes the OT constantly, so 0103/0121 will be in play for the whole book.
+- **χριστός across the book:** ESV-style "Kristus" throughout, NIV-style "Kristus",
+  NLT-style **"Messias"** — Matthew's audience is Jewish throughout, so 0027 sends the
+  NLT-style to "Messias" everywhere, including the name-pair at 1:1 and 1:18.
+- `tools/check_usfm.py` now carries the full MAT verse counts; 17:21, 18:11 and 23:14 are
+  already in the omitted list per 0073.
 
 ## Hebrews 10 — out of sequence
 
