@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Matthew | 1 / 28 | ✅ ch. 1 | ✅ ch. 1 | ✅ ch. 1 |
+| Matthew | 4 / 28 | ✅ ch. 1–4 | ✅ ch. 1–4 | ✅ ch. 1–4 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
@@ -98,6 +98,14 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
 - **χριστός across the book:** ESV-style "Kristus" throughout, NIV-style "Kristus",
   NLT-style **"Messias"** — Matthew's audience is Jewish throughout, so 0027 sends the
   NLT-style to "Messias" everywhere, including the name-pair at 1:1 and 1:18.
+- **0124 — Himmeriget/Himmelriget** for βασιλεία τῶν οὐρανῶν, kept distinct from "Guds rige"
+  throughout. Watch 12:28 and 19:24, where Matthew himself switches to "Guds rige".
+- **δικαιοσύνη is a Matthean theme** (3:15; 5:6.10.20; 6:1.33; 21:32), not an incidental word.
+  0114 made it `standard` scope, so the audit will not catch a drift — check it by hand. The
+  NLT-style already renders 3:15 without the noun, which is defensible but must not become a
+  habit that erases the theme.
+- **Do not harmonise the baptism voice:** Matthew 3:17 is third person ("Denne er"), Mark 1:11
+  and Luke 3:22 second person ("Du er"). Footnoted, not levelled — 0117 territory.
 - `tools/check_usfm.py` now carries the full MAT verse counts; 17:21, 18:11 and 23:14 are
   already in the omitted list per 0073.
 

@@ -1369,3 +1369,49 @@ and footnote the Hebrew, harmonising in neither direction. Matthew's whole appea
 the Hebrew says "virgin" would be the opposite error, and 0014 requires the reader be told.
 The note is deliberately even-handed: it neither concedes the point nor overstates it.
 Ἐμμανουήλ keeps Matthew's own gloss, per 0090.
+
+### 0122 — μάγοι at Matthew 2
+**2026-07-30 · all · settled**
+μάγοι are Persian or Babylonian scholar-priests who read the stars. They are not kings, and
+Matthew does not number them.
+- **ESV-style and NIV-style: "vise mænd fra Østerland"** — the received Danish wording, which
+  0016 tells the ESV-style not to abandon without cause, footnoting the Greek and what the
+  word means.
+- **NLT-style: "stjernekyndige mænd"** — its charter's gate test is met, because "vise mænd"
+  no longer tells a Danish reader what these men did, and what they did is what sets the whole
+  chapter in motion.
+All three footnote that the text says neither how many they were nor that they were kings.
+
+### 0123 — Matthew's Old Testament citations do not all come from the same text
+**2026-07-30 · all · settled** (refines 0103 and 0121)
+Matthew 2 has four citations and they behave differently, which matters because 0103 was
+written as though a New Testament author were simply LXX-dependent:
+- **2:6 (Mic 5:1)** is a **composite**, spliced with 2 Sam 5:2, and its wording agrees with
+  neither the Hebrew nor the Greek — Micah says Bethlehem *is* little among Judah's clans,
+  Matthew that it is by no means the least. **Translate Matthew and footnote the difference;
+  do not correct him toward Micah.**
+- **2:15 (Hos 11:1)** follows the **Hebrew** — "my son", singular — *against* the Greek Old
+  Testament's "his children". So Matthew chooses the text-form that carries his argument.
+- **2:18 (Jer 31:15)** is close to the Hebrew.
+- **2:23** has no source text at all; Matthew writes "the prophets", plural, and is almost
+  certainly playing on Hebrew *neser* (Isa 11:1) or *nazir* (Judg 13:5). The wordplay cannot
+  be carried into Danish. **Footnote it and do not attempt it.**
+*Standing rule, superseding the flat form of 0103:* establish per citation which text-form the
+author is using, and footnote the divergence. Never harmonise the New Testament citation
+toward the Old Testament source, and never assume the Greek Old Testament is the source
+merely because it usually is.
+
+### 0124 — βασιλεία τῶν οὐρανῶν is Matthew's own phrase
+**2026-07-30 · all · settled**
+Matthew says "the kingdom of **the heavens**" some thirty-two times where Mark and Luke say
+"the kingdom of God" — almost certainly a reverential circumlocution of the sort Jewish usage
+favoured. The referent is the same; the wording is his.
+**Ruled:** ESV-style **"Himmeriget"** (the received Danish form, per 0016); NIV- and NLT-style
+**"Himmelriget"** (the transparent modern form). All three keep it **distinct from "Guds rige"**,
+which stays reserved for βασιλεία τοῦ θεοῦ — including at Matt 12:28 and 19:24, where Matthew
+himself switches to "Guds rige" and the switch must be visible. Scope in the glossary is
+`konkordant@MAT`. Footnote at the first occurrence (3:2) explaining the circumlocution.
+*Rationale:* 0002 forbids the three differing about what a phrase *means*, not about how they
+spell it, and this is the same word in two Danish registers. But levelling Matthew's phrase into
+"Guds rige" would erase an authorial choice — the same reasoning as 0036 on Menneskesønnen and
+0093 on the two kinds of basket.
