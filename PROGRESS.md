@@ -3,7 +3,7 @@
 | Book | Chapters | ESV-style | NIV-style | NLT-style |
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Mark | 12 / 16 | ✅ ch. 1–12 | ✅ ch. 1–12 | ✅ ch. 1–12 |
+| Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
@@ -72,6 +72,18 @@ Files are `<version>/translation/<BOOK>.usfm`; append chapters in order.
   Luke**, or the charter is not being applied.
 - **NA28 governs over SBLGNT** where they diverge (0083); TAGNT settles it. First hit was
   Mark 1:41 (compassion, not anger) and 1:1 ("Guds Søn" kept).
+- **Three controls now run per chapter, and each caught something the others missed:**
+  `tools/check_usfm.py` (well-formed), `tools/audit_translation.py` (did the Danish carry
+  the Greek — 0113), and **`tools/parallel.py BOOK CH`, read by eye for meaning
+  divergences** (0116). The parallel read is not optional: in Mark 14 it alone caught the
+  0002 violation at 14:41, the 0019 over-reach at 14:38, and the 0117 harmonisation at
+  14:65. None of the three was visible to either script.
+- **0117 — Passion-narrative warning, live from Mark 14 to 16:** the remembered wording
+  arrives from memory instead of from the page. Check every familiar detail against the
+  Greek of *this* Gospel.
+- **The NLT-style over-reaches under pressure** — twice now (Heb 10:22, Mark 14:38) it
+  dissolved a contrast the Greek marks, where 0019's gate test was never met. When a verse
+  contains a paired abstraction (ånd/kød, tro/tillid), check 0019 before recasting.
 
 ## Hebrews 10 — out of sequence
 

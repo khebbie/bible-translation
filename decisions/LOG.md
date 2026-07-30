@@ -1224,3 +1224,101 @@ rather than as drift.
 *Rationale:* a concordance rule that is really three rules produces false failures, and a
 check that cries wolf stops being read. Per 0113, the honest fix is to narrow the rule to
 where a charter actually demands it, not to loosen the check.
+
+### 0115 — Mark's periphrastic future
+**2026-07-30 · all · settled**
+Mark builds a future with **εἰμί + present participle** (13:13 ἔσεσθε μισούμενοι;
+13:25 ἔσονται … πίπτοντες) — a Semitism that stresses the continuing state.
+**Ruled:** render with the ordinary Danish future in all three ("I skal hades af alle",
+"stjernerne falder ned"). Danish has no progressive, and forcing one ("I vil vedblive at
+være hadet") buys grammatical visibility at the cost of readable Danish in every register,
+including the ESV-style's. Not footnoted — the loss is in the grammar, not the sense.
+*Recorded so the audit's aspect queue does not re-raise it every chapter.*
+
+### 0116 — Mark 14:41 is an ironic imperative, not a question
+**2026-07-30 · all · settled**
+Καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε is **formally ambiguous**: in the 2nd person plural the
+present indicative and the imperative are identical, so the Greek can be read either
+"Sleep on now and take your rest" or "Are you still sleeping and resting?"
+**Ruled:** the **imperative** in all three versions — ESV-style "Sov nu videre og hvil
+jer!", NIV-style the same, NLT-style "Så sov da videre, og hvil jer!" — with the question
+reading footnoted in all three.
+*Rationale:* **0013** takes the older rendering where the evidence is genuinely open, and
+the imperative is what the KJV and the Danish tradition have. Note that the English
+versions split here — ESV and NIV read it as a question, NLT as an imperative — which is
+precisely why 0003 forbids deciding it by looking at them.
+**How this was caught, and the gap it exposes:** the first draft had the ESV-style as an
+imperative and the NIV- and NLT-style as questions. That is a **0002 violation** — the
+three may differ in *rendering*, never in what a verse *means* — and it survived
+`check_usfm.py`, the concordance check and the asymmetry check, because all three verses
+were the right length and used the ruled vocabulary. It was found only by reading the
+three side by side against the Greek.
+*Standing lesson:* no current tool can detect a meaning divergence between the versions.
+Per 0113 that is squarely in the third tier. **Read the three in parallel before closing a
+chapter** — it is the cheapest control we have on 0002, and the parallel-column PDF built
+for Hebrews 10 is the right shape for doing it.
+
+### 0117 — The Passion narrative is where harmonisation gets in
+**2026-07-30 · all · settled** (applies 0003, extends 0094)
+Drafting Mark 14 the NLT-style rendered 14:65 as "»Sig os, hvem der slog dig!«" — the
+question from **Matt 26:68 / Luke 22:64**. Mark has only **Προφήτευσον**, "Profetér!", and
+he does not say Jesus was blindfolded either; περικαλύπτειν αὐτοῦ τὸ πρόσωπον is "cover his
+face". Corrected in the text and footnoted that the parallels add the question.
+*Rationale:* **0003** in its purest form. Nothing suggested the harmonisation — no English
+version was consulted — which is exactly the danger: **the Passion narrative is the most
+memorised text in the Gospels, so the harmonised version arrives from memory rather than
+from the page.** 0094 made the same ruling for Mark 8:12's missing Jonah exception, and
+0088 for the apostle lists.
+**Standing instruction for Mark 14–16, Matt 26–28, Luke 22–24 and John 18–21:** before
+closing a Passion chapter, check every remembered detail against the Greek of *that*
+Gospel. Specifically at risk — the wording of the trial questions, the cry from the cross,
+the inscription on the cross, the number and names of the women, and the words at the
+empty tomb. Where a version has less than the reader expects, keep the less and footnote
+that the parallels have more.
+
+### 0118 — Hours of the day
+**2026-07-30 · all · settled** (companion to 0017, which covers units and currency)
+The Gospels count hours from sunrise, so "the third hour" is about nine in the morning.
+- **ESV-style:** keep the ancient reckoning — "den tredje time", "den sjette time" — with the
+  modern time in a footnote. First applied at Mark 15:25, 33, 34.
+- **NIV-style and NLT-style:** give the modern time in the text — "klokken ni om morgenen",
+  "fra klokken tolv til klokken tre" — footnoting the literal Greek.
+*Rationale:* the NLT charter states the o'clock rule explicitly; the NIV's brief is what the
+author would have written for a contemporary readership, and no Danish reader computes from
+sunrise. The ESV-style keeps the ancient reckoning for the same reason it keeps ancient
+units (0017): its charter trusts the reader with a footnote. Note that at Mark 15:33–34 the
+three hours of darkness are a *duration* — the modern times must not obscure that it ran
+from midday to mid-afternoon.
+
+### 0119 — The ending of Mark
+**2026-07-30 · all · settled** (the hardest application of 0004, 0080 and 0081)
+Mark ends at **16:8**, mid-sentence, on **ἐφοβοῦντο γάρ** — "for they were afraid" — in
+Sinaiticus and Vaticanus, the two oldest complete manuscripts. Eusebius and Jerome both
+report that the accurate copies of their day stopped there. Antiquity produced two
+continuations: the **Longer Ending** (16:9–20), known already in the second century to
+Irenaeus and Tatian and present in the great majority of manuscripts; and a **Shorter
+Ending**, in a handful of witnesses, sometimes alongside the Longer.
+
+**Ruled, in all three versions:**
+1. **Print 16:8 exactly as it stands**, ending on "for de var bange" / "for de var bange".
+   Do not smooth the broken sentence and do not supply a closing cadence.
+2. **Print 16:9–20 in the text**, under a section heading that names what it is:
+   **"Den længere slutning på Markusevangeliet"**.
+3. **Do not bracket typographically.** 0080 settled this: brackets in Danish overstate the
+   evidence in one direction or the other. A `\s1` heading is structurally distinct in USFM,
+   can be hidden by an app, and states the position in words rather than in punctuation.
+4. **One substantial footnote at 16:8** giving the manuscript position, saying plainly that
+   the Longer Ending's vocabulary and style differ from Mark's own, and **quoting the Shorter
+   Ending in full** — it does not go in the text, being far more weakly attested.
+
+*Rationale:* the evidence here is materially stronger against authorship than at Luke
+22:43–44 or 23:34a, so the note has to say more than "some manuscripts differ" — a reader
+who is told only that would reasonably conclude the question is trivial, and it is not.
+But 0004 and 0014 govern the *text*: ESV, NIV and NLT all print the Longer Ending, it has
+been read as Scripture since the second century, and removing twelve verses on our own
+authority is not what a translation is for. **0013's conservative default takes the received
+text and puts the honest doubt in the note** — which is exactly the shape of 0080 and 0081,
+applied to the largest case in the New Testament.
+*Note on the heading as a device:* this is the first time a heading has been used to carry
+textual information rather than a summary of content. It is preferable to brackets and worth
+reusing at John 7:53–8:11 when we reach it.

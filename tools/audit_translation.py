@@ -76,6 +76,24 @@ under efter fra mod ind ud op ned igen dette disse noget nogen nogle""".split())
 
 VOWELS = "aeiouyæøå"
 
+# Verbs with no active form, so a middle is not a choice anyone made. MorphGNT
+# marks deponents with a middle-shaped lemma (caught by the -μαι test); these
+# have active-shaped lemmas but no active future/aorist in use.
+NO_ACTIVE = {"εἰμί", "ὁράω", "ἄρχω", "γινώσκω", "λαμβάνω", "πίπτω", "φεύγω"}
+
+# Perfect in form, present in sense: flagging these as "perfect" is pure noise.
+STATIVE_PERFECT = {"οἶδα", "ἵστημι", "παρίστημι", "ἀνθίστημι",
+                   "πείθω", "ἔθω"}
+
+# High-frequency verbs whose participles are ordinary circumstantial padding
+# ("as he was going out", "saying"). Aspect is not what a translator decides
+# here, and flagging them buries the cases that matter — Heb 10:26's ἁμαρτάνω is
+# deliberately not in this list.
+ASPECT_INERT = {"λέγω", "εἰμί", "ἔχω", "ἔρχομαι", "γίνομαι", "κάθημαι",
+                "ἐκπορεύομαι", "ὁράω", "εἰσέρχομαι", "ἐξέρχομαι", "ἀποκρίνομαι",
+                "ἐσθίω", "κατάκειμαι", "ἀνάκειμαι", "θερμαίνομαι", "βαστάζω",
+                "συγκάθημαι", "καθεύδω", "πορεύομαι", "ἀκολουθέω"}
+
 # Danish strong verbs whose consonant skeleton changes: infinitive -> extra
 # skeletons the same lemma legitimately appears as. Suffix-stripping and
 # prefix-matching both fail on these, so they are listed rather than guessed.
@@ -139,6 +157,11 @@ def load_danish(version, book):
         for block in re.split(r"\\c ", text)[1:]:
             chapter = int(block.split(None, 1)[0])
             # split into verses, keeping the marker's number
+            # drop heading/reference lines outright: their words are not the
+            # verse text, and letting them bleed in gave the concordance check
+            # false passes
+            block = re.sub(r"^\\(s\d?|ms\d?|mr|sr|r|d|sp|qa|b)\b.*$", "",
+                           block, flags=re.M)
             pieces = re.split(r"\\v (\d+)", block)[1:]
             for num, body in zip(pieces[::2], pieces[1::2]):
                 key = (chapter, int(num))
@@ -331,19 +354,21 @@ def check_features(greek, danish, chapter_filter, versions):
                 continue
             f = parse_field(parsing)
             word = text.strip(".,;:·⸀⸂⸃")
-            if f["tense"] in "XY":
+            if f["tense"] in "XY" and lemma not in STATIVE_PERFECT:
                 missing = [v for v in versions
                            if texts[v] and not any(c in texts[v] for c in PERFECT)]
                 flags.append(("perfektum", word, lemma, missing,
                               "perfektum i græsk"))
-            elif f["tense"] == "P" and f["mood"] == "P":
+            elif (f["tense"] == "P" and f["mood"] == "P"
+                    and lemma not in ASPECT_INERT):
                 missing = [v for v in versions
                            if texts[v] and not any(r.search(texts[v])
                                                    for r in DURATIVE)]
                 what = ("genitiv absolut, præsens" if f["case"] == "G"
                         else "præsens participium")
                 flags.append(("aspekt", word, lemma, missing, what))
-            if f["voice"] == "M" and f["mood"] != "-" and not lemma.endswith("μαι"):
+            if (f["voice"] == "M" and f["mood"] != "-"
+                    and not lemma.endswith("μαι") and lemma not in NO_ACTIVE):
                 flags.append(("medium", word, lemma, [],
                               "ægte medium (aktivt opslagsord)"))
         if flags:
