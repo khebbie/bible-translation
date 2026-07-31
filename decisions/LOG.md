@@ -1475,3 +1475,20 @@ translator to resolve. The footnote tells the reader; the text does not paper ov
 two donkeys at 21:2–7. **Do not reduce any of them**, and do not let a remembered Markan
 version supply the number. This is 0117's warning in a different key: the harmonised
 version arrives from memory.
+
+### 0128 — βιάζεται at Matthew 11:12 goes the other way from Luke 16:16
+**2026-07-31 · all · settled** (companion to 0072, and a limit on it)
+0072 rendered βιάζεται at Luke 16:16 in the **positive** middle sense — "alle trænger ind i
+det med magt" — because Luke's context is the crowds of toll collectors and sinners pressing
+in from 15:1.
+**Matthew 11:12 is a different context and takes the negative reading:** "der trænges ind på
+Himmeriget med magt, og de, som bruger magt, river det til sig". What decides it is the next
+clause — **βιασταὶ ἁρπάζουσιν αὐτήν**, "violent men seize it" — which Luke does not have, and
+ἁρπάζω is plainly hostile.
+**Footnote both readings in both places**, naming the other Gospel, so a reader comparing them
+sees that the difference is contextual and deliberate rather than an inconsistency.
+*Rationale:* the verb is genuinely ambiguous between middle and passive, and **0002 requires
+shared exegesis of a passage, not identical rendering of a word across two different
+passages.** Forcing one Danish rendering on both would import Luke's crowds into Matthew's
+warning, or Matthew's violence into Luke's. This is the mirror image of 0127: there the
+danger was harmonising *numbers*, here it is harmonising *senses*.

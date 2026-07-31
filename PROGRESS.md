@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Matthew | 10 / 28 | ✅ ch. 1–10 | ✅ ch. 1–10 | ✅ ch. 1–10 |
+| Matthew | 11 / 28 | ✅ ch. 1–11 | ✅ ch. 1–11 | ✅ ch. 1–11 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
