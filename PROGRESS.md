@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | Luke | **24 / 24 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
 | Mark | **16 / 16 — færdig** | ✅ hele bogen | ✅ hele bogen | ✅ hele bogen |
-| Matthew | 15 / 28 | ✅ ch. 1–15 | ✅ ch. 1–15 | ✅ ch. 1–15 |
+| Matthew | 16 / 28 | ✅ ch. 1–16 | ✅ ch. 1–16 | ✅ ch. 1–16 |
 | Romans | pericope only | ✅ 3:21–26 | ✅ 3:21–26 | ✅ 3:21–26 |
 | Hebrews | ch. 10 only | ✅ 10 | ✅ 10 | ✅ 10 |
 
@@ -138,7 +138,7 @@ per `FORMAT.md`) and must be **merged into `HEB.usfm`** when the book is done pr
 
 ## Where to pick up (2026-07-31)
 
-`bd ready` returns **MAT 16**. Matthew 1–15 is done in all three versions; 13 Matthew
+`bd ready` returns **MAT 17**. Matthew 1–16 is done in all three versions; 12 Matthew
 chapters and all 21 of John remain, plus `bible-kny` (glossary scope) and `bible-5fp`
 (cold reader).
 

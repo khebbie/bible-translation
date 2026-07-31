@@ -1492,3 +1492,36 @@ shared exegesis of a passage, not identical rendering of a word across two diffe
 passages.** Forcing one Danish rendering on both would import Luke's crowds into Matthew's
 warning, or Matthew's violence into Luke's. This is the mirror image of 0127: there the
 danger was harmonising *numbers*, here it is harmonising *senses*.
+
+### 0129 — ἐκκλησία is "menighed", not "kirke"
+**2026-07-31 · all · settled** (first occurrence Matt 16:18; recurs 18:17)
+ἐκκλησία occurs only twice in the Gospels, both in Matthew. The received Danish rendering
+at 16:18 is **"kirke"** — "på denne klippe vil jeg bygge min kirke" — and it is among the
+best-known sentences in the Danish New Testament.
+**Ruled: "menighed" in all three versions, at both 16:18 and 18:17**, with a footnote at
+16:18 giving the traditional "kirke" and saying why it was not used.
+*Rationale, and why this overrides 0016:* 0016 tells the ESV-style not to depart from the
+Danish tradition **without cause**, and here there is cause. In contemporary Danish *kirke*
+denotes a building or a denomination — an institution that did not yet exist — while
+ἐκκλησία is simply the assembly of those called together. Using it would read the later
+institution back into Jesus' words, which is exactly the retrojection **0013's second
+clause** forbids: conservative bibliology, not confessional anachronism. The 1992 Danish
+Bible itself renders the same word "menighed" at 18:17, so the tradition is not univocal;
+and translating one Greek word with two Danish ones would break the link between the two
+verses, which 0007 protects. **The footnote carries the traditional wording**, per 0014.
+
+### 0130 — Wordplay that Danish cannot carry
+**2026-07-31 · all · settled**
+Matt 16:18 turns on **Πέτρος / πέτρα** — "you are *Petros*, and on this *petra* I will
+build" — and Danish has no pair that reproduces it, because the name Peter is not a Danish
+common noun.
+**Ruled:** translate the sense and **footnote the wordplay**, naming both Greek words. Do
+**not** attempt a Danish substitute ("du er Klippe, og på denne klippe…"), which would
+replace the man's name with a common noun and mislead the reader about what Matthew wrote.
+*This generalises 0123's fourth clause* (the *neser/nazir* play at 2:23, likewise
+untranslatable) into a standing rule: **where a wordplay cannot cross into Danish, render
+the sense, footnote the play, and do not manufacture a Danish one.** A fabricated pun is a
+new text, not a translation.
+*Corollary worth keeping visible:* at **16:23**, eight verses after Peter is named the rock,
+Jesus calls him a **σκάνδαλον** — a stone to stumble over. That contrast *does* survive in
+Danish and must be allowed to: do not soften "du er mig til fald" into a general rebuke.
