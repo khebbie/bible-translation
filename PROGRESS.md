@@ -136,6 +136,24 @@ per `FORMAT.md`) and must be **merged into `HEB.usfm`** when the book is done pr
 - Still untranslated in Hebrews: everything except chapter 10. No `bd` epic exists for
   it; the Gospels remain the planned sequence.
 
+## Where to pick up (2026-07-31)
+
+`bd ready` returns **MAT 16**. Matthew 1–15 is done in all three versions; 13 Matthew
+chapters and all 21 of John remain, plus `bible-kny` (glossary scope) and `bible-5fp`
+(cold reader).
+
+Live warnings for the chapters ahead:
+- **17:21, 18:11 and 23:14** are TR-only and must be omitted with a footnote (0073).
+  `tools/check_usfm.py` already knows they are not missing.
+- **20:30 two blind men, 21:2–7 two donkeys** — 0127; never reduce to the Markan number.
+- **21:32** is the last δικαιοσύνη in the Matthean chain; 0125 requires the Danish root.
+- **26–28 is the Passion narrative** — 0117 is live: check every remembered detail
+  against the Greek of *this* Gospel, especially the trial questions, the cry from the
+  cross, the inscription, and the names of the women.
+- **John** will need its own opening decisions: ὁ λόγος in 1:1–18, οἱ Ἰουδαῖοι (the NLT
+  charter has an explicit rule), the ἐγώ εἰμι sayings, and 7:53–8:11, where 0119's
+  heading device is the model.
+
 ## Standing debt
 
 - **No cold-reader pass has ever been run.** Every check so far was done in a context
