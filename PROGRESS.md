@@ -156,9 +156,13 @@ Live warnings for the chapters ahead:
 
 ## Standing debt
 
-- **No cold-reader pass has ever been run.** Every check so far was done in a context
-  that had already seen the Greek. Worth running fresh every few books, on the
-  NLT-style especially.
+- **The cold-reader pass has started.** Epic `bible-sjw` holds Luke chapter by chapter,
+  all three versions per chapter, reports in `cold-reader/`. **Luke 1 is done**
+  (2026-08-01) and produced decisions 0131–0135. It was worth it: NIV-style had John
+  filled with the Spirit *from birth* where the Greek says *from the womb*, NLT-style had
+  Mary going to a town in *Judæa* where Luke wrote *Judah* — and the Magnificat had
+  quietly collapsed, with 1:46 word-for-word identical in the ESV- and NIV-style. None of
+  that is visible to either checker. Chapters 2–24 remain; run the NLT-style hardest.
 - **Still no schema validator.** `tools/check_usfm.py` now checks verse
   completeness, marker balance, verse order, footnote refs and cross-version
   agreement — run it after every chapter. That is not USFM *schema* conformance;

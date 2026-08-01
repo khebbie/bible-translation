@@ -1525,3 +1525,77 @@ new text, not a translation.
 *Corollary worth keeping visible:* at **16:23**, eight verses after Peter is named the rock,
 Jesus calls him a **σκάνδαλον** — a stone to stumble over. That contrast *does* survive in
 Danish and must be allowed to: do not soften "du er mig til fald" into a general rebuke.
+
+### 0131 — Archaism is protected; a false friend is not
+**2026-08-01 · esv · settled**
+The first cold-reader pass (Luk 1, `cold-reader/LUK-1.md`) found several places where the
+ESV-style Danish is hard because it is *old*, and one where it is hard because a word has
+since **changed sense**. These must be treated differently.
+**Ruled:** in the ESV-style version, an archaic construction inherited from the Danish
+1931 stream **stands** — the charter's Danish note anchors that version there deliberately,
+and the authority order puts the conservative default *above* Danish idiom. But where a
+word's modern sense **inverts or blocks** the meaning, it fails at *protect the argument*,
+which outranks everything, and must be changed.
+Applied at 1:55: «sådan som han talte til vore fædre, **mod** Abraham og hans afkom» — 1931
+has *imod*, but in present-day Danish *mod Abraham* reads as *against* Abraham, inside a
+blessing. Changed to **til**. Greek has the plain dative τῷ Ἀβραάμ.
+*Left standing under the same rule:* 1:52 «ophøjet ringe» (anarthrous), 1:54 «komme
+barmhjertighed i hu», 1:71 «fra alle deres hånd, som hader os», 1:80 «i ørkenerne» — all
+1931 wording, all merely difficult, none misleading.
+*Test to apply:* does a modern reader get a **wrong** meaning, or merely a **slow** one?
+Wrong ⇒ fix. Slow ⇒ keep.
+
+### 0132 — Capitalisation of divine titles
+**2026-08-01 · all · settled**
+The corpus was inconsistent: ESV-style had "Guds Søn" in Mark and Luke but "Guds søn" in
+Matthew; NLT-style had both "Den Højeste" and "den Højeste" inside Luke alone.
+**Ruled:**
+1. **"den Højeste"** — lower-case article, capital adjective, in **all three** versions.
+   The article is not part of the title.
+2. **Titular "Søn"** (Guds Søn, den Højestes Søn) — capitalised **in the ESV-style only**,
+   which anchors in the 1931 stream; lower-case *søn* in the NIV- and NLT-style, which
+   follow modern Danish orthography.
+3. Deity **pronouns** are never capitalised, in any version — `esv/charter/METHOD.md`
+   already says so, and nothing in the manuscripts corresponds.
+*Rationale:* the distinction is a **charter** difference, not a typographic accident, so it
+should run along charter lines rather than at random. Applied to Luk 1; the rest of the
+corpus is queued as `bible-sjw` sibling work, not silently swept here.
+
+### 0133 — ὅτι at Luk 1:45 splits the versions, and that is declared, not accidental
+**2026-08-01 · all · settled**
+μακαρία ἡ πιστεύσασα **ὅτι** ἔσται τελείωσις — ὅτι is either causal ("blessed is she who
+believed, *for* there will be fulfilment") or content ("believed *that* there would be").
+Both are live; ESV, NIV and NLT English all take it as content, the Danish 1931/1992 stream
+takes it as causal.
+**Ruled:** the ESV-style keeps the **causal** reading, per its charter's anchoring in the
+Danish stream; the NIV- and NLT-style take the **content** reading. **A footnote at the
+ESV-style carries the alternative** (0014), because the default there forecloses the
+majority reading.
+*Standing point:* where the three versions land on different sides of a genuine crux, that
+must be a numbered decision with a footnote — never an unremarked divergence. A cold reader
+sees the split immediately and cannot tell whether it was chosen or overlooked.
+
+### 0134 — Two verbs must not collapse into one Danish root
+**2026-08-01 · esv · settled**
+Luk 1:17 has **two** verbs — ἑτοιμάσαι (prepare) and κατεσκευασμένον (perfect passive of
+κατασκευάζω, "having been made ready"). The draft read «berede Herren et **vel beredt**
+folk», doubling one Danish root and flattening the perfect participle into an adjective.
+**Ruled:** «og således **berede** Herren et folk, **der er gjort rede**.» The finite act and
+the perfect passive state now use distinct Danish forms, and the perfect is explicit.
+*Rejected en route:* 1931's «et velskikket folk» — it breaks the doubling but drops the
+perfect passive altogether, which is worse on the audit's own terms. Solving a **style**
+complaint must not cost a **grammatical** feature.
+
+### 0135 — Ἰούδα (the territory) is not Ἰουδαία
+**2026-08-01 · all · settled**
+At Luk 1:39 Maria goes εἰς **πόλιν Ἰούδα** — a town of **Judah**, the tribal territory. At
+1:65, twenty-six verses later, the same chapter has ἐν ὅλῃ τῇ ὀρεινῇ τῆς **Ἰουδαίας** — the
+hill country of **Judæa**, the Roman province. The NLT-style draft had *Judæa* in both, which
+redraws the map and erases a distinction Luke makes inside one chapter.
+**Ruled:** Ἰούδα → **Juda**, Ἰουδαία → **Judæa**, in all three versions. Added to
+`names.tsv` as a `place` row alongside the existing `person` row for the patriarch, because
+the trap is that the two Danish forms differ by three letters and the Greek by one.
+*Also fixed here:* the same verse-5 priestly division was **Abias** in the ESV- and
+NIV-style and **Abija** in the NLT-style. `names.tsv` already ruled **Abia** under 0028;
+the NLT-style had simply drifted. This is the failure mode CLAUDE.md names — the glossary is
+a specification, and a version that does not consult it invents a second spelling.
