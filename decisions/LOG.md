@@ -1599,3 +1599,45 @@ the trap is that the two Danish forms differ by three letters and the Greek by o
 NIV-style and **Abija** in the NLT-style. `names.tsv` already ruled **Abia** under 0028;
 the NLT-style had simply drifted. This is the failure mode CLAUDE.md names — the glossary is
 a specification, and a version that does not consult it invents a second spelling.
+
+### 0136 — δόξα stays "herlighed" in narrative; "ære" only in doxology
+**2026-08-01 · nlt · settled**
+`key-terms.tsv` gives δόξα → **herlighed** in all three versions at `standard` scope. The
+NLT-style had dissolved it twice inside one chapter and in two different directions: Luk 2:9
+«Herrens **lys** strålede omkring dem» and 2:32 «han er **æren** for dit eget folk».
+**Ruled:** both back to **herlighed**. `standard` scope permits departure where the usual
+rendering fails — and neither case qualifies. *Herlighed* is ordinary Danish, so the
+NLT charter's clarity test is not triggered; and «æren for» in modern Danish means *the
+credit for*, which is not what δόξαν λαοῦ σου means at all.
+**The one place «ære» is right is 2:14** — Δόξα ἐν ὑψίστοις θεῷ is a doxological ascription,
+not a description, and all three versions have «Ære være Gud». That split is lexically real
+and stays.
+*General point:* a `standard`-scope term is not a free term. It means departure needs a
+reason, not that it needs no reason.
+
+### 0137 — The NIV-style collapses toward whichever neighbour the genre pulls it to
+**2026-08-01 · niv · settled**
+Two cold-read chapters now show the same defect with opposite signs. In **Luk 1** the
+NIV-style went verbatim with the **ESV-style** at 1:46 and near-verbatim at 1:50, 1:53,
+1:18 — all inside Magnificat and Benedictus. In **Luk 2** it went verbatim with the
+**NLT-style** at 2:49 and near-verbatim at 2:16, 2:51, 2:39, 2:41, 2:42 — all inside plain
+narrative.
+**Diagnosis:** the mediating version is being written as *a point between the other two*
+rather than as an answer to its own charter question — *how would the author have said this
+today, for the whole readership?* A version defined by its neighbours has no independent
+existence when the genre pulls hard in one direction.
+**Ruled:** when drafting or reviewing the NIV-style, its rendering must be reachable from
+its own charter **without reference to the other two versions**. Where a verse comes out
+identical to a neighbour, that is evidence the question was not asked — not evidence that
+the Danish was forced.
+*Also applied here:* the section headings were duplicated between versions (three of four
+identical in the ESV- and NIV-style in Luk 2). Headings are editorial, but they are the
+first thing a reader meets, and they must differ by version like everything else.
+
+### 0138 — 0132 extends to "Fader" as a divine title
+**2026-08-01 · all · settled**
+Luk 2:49 has «min **F**aders hus» in the ESV-style against «min **f**ars hus» in the NIV-
+and NLT-style. This is the same question 0132 settled for «Søn» and «den Højeste», and it
+takes the same answer: **titular "Fader" capitalised in the ESV-style only**, lower-case
+*far/fader* in the other two. Deity pronouns remain lower-case everywhere.
+Folded into `bible-a4n`, the corpus-wide sweep.
